@@ -12,10 +12,11 @@ public class GeneratedProblem extends Problem{
     private final List<MoveStyle> moveStyles;
     private final ProblemGenerationStrategy strategy;
 
-    public GeneratedProblem(Board board, int numMoves,
-                               List<MoveStyle> moveStyles,
-                               ProblemGenerationStrategy strategy,
-                               Grade desiredGrade) {
+    public GeneratedProblem(Board board,
+                            int numMoves,
+                            List<MoveStyle> moveStyles,
+                            ProblemGenerationStrategy strategy,
+                            Grade desiredGrade) {
         super(board);
         this.numMoves = numMoves;
         this.moveStyles = moveStyles;
@@ -26,7 +27,7 @@ public class GeneratedProblem extends Problem{
 
     public List<Hold> generate() {
         double totalGrade = grade.getDifficultyWeight();
-        MoveMap moveMap = new MoveMap(board);
+        MoveMap moveMap = new MoveMap(board, moveStyles);
 
         return strategy.generate(moveMap, numMoves, totalGrade, moveStyles);
     }
