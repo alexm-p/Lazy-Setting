@@ -4,8 +4,8 @@
       "holdType": "CRIMP",
       "difficulty": 7.05,
       "pose": {
-        "x": 1.0,
-        "y": 1.0,
+        "x": 100.0,
+        "y": 100.0,
         "rotation": 135
       }
     },
@@ -13,8 +13,8 @@
       "holdType": "POCKET",
       "difficulty": 5.47,
       "pose": {
-        "x": 2.0,
-        "y": 1.0,
+        "x": 200.0,
+        "y": 100.0,
         "rotation": 247.5
       }
     },
@@ -22,8 +22,8 @@
       "holdType": "JUG",
       "difficulty": 5.32,
       "pose": {
-        "x": 3.0,
-        "y": 1.0,
+        "x": 300.0,
+        "y": 100.0,
         "rotation": 0
       }
     },
@@ -31,8 +31,8 @@
       "holdType": "JUG",
       "difficulty": 6.33,
       "pose": {
-        "x": 4.0,
-        "y": 1.0,
+        "x": 400.0,
+        "y": 100.0,
         "rotation": 0
       }
     },
@@ -40,8 +40,8 @@
       "holdType": "SLOPER",
       "difficulty": 7.5,
       "pose": {
-        "x": 5.0,
-        "y": 1.0,
+        "x": 500.0,
+        "y": 100.0,
         "rotation": 45
       }
     },
@@ -49,8 +49,8 @@
       "holdType": "EDGE",
       "difficulty": 2.61,
       "pose": {
-        "x": 6.0,
-        "y": 1.0,
+        "x": 600.0,
+        "y": 100.0,
         "rotation": 67.5
       }
     },
@@ -58,8 +58,8 @@
       "holdType": "PINCH",
       "difficulty": 3.54,
       "pose": {
-        "x": 7.0,
-        "y": 1.0,
+        "x": 700.0,
+        "y": 100.0,
         "rotation": 270
       }
     },
@@ -67,8 +67,8 @@
       "holdType": "POCKET",
       "difficulty": 3.66,
       "pose": {
-        "x": 8.0,
-        "y": 1.0,
+        "x": 800.0,
+        "y": 100.0,
         "rotation": 292.5
       }
     },
@@ -76,8 +76,8 @@
       "holdType": "EDGE",
       "difficulty": 8.1,
       "pose": {
-        "x": 9.0,
-        "y": 1.0,
+        "x": 900.0,
+        "y": 100.0,
         "rotation": 157.5
       }
     },
@@ -85,8 +85,8 @@
       "holdType": "PINCH",
       "difficulty": 2.49,
       "pose": {
-        "x": 1.5,
-        "y": 1.0,
+        "x": 150.0,
+        "y": 100.0,
         "rotation": 67.5
       }
     },
@@ -94,8 +94,8 @@
       "holdType": "CRIMP",
       "difficulty": 7.29,
       "pose": {
-        "x": 2.5,
-        "y": 1.0,
+        "x": 250.0,
+        "y": 100.0,
         "rotation": 157.5
       }
     },
@@ -103,8 +103,8 @@
       "holdType": "EDGE",
       "difficulty": 7.28,
       "pose": {
-        "x": 3.5,
-        "y": 1.0,
+        "x": 350.0,
+        "y": 100.0,
         "rotation": 337.5
       }
     },
@@ -112,8 +112,8 @@
       "holdType": "JUG",
       "difficulty": 6.37,
       "pose": {
-        "x": 4.5,
-        "y": 1.0,
+        "x": 450.0,
+        "y": 100.0,
         "rotation": 135
       }
     },
@@ -121,8 +121,8 @@
       "holdType": "POCKET",
       "difficulty": 2.44,
       "pose": {
-        "x": 5.5,
-        "y": 1.0,
+        "x": 550.0,
+        "y": 100.0,
         "rotation": 0
       }
     },
@@ -130,8 +130,8 @@
       "holdType": "JUG",
       "difficulty": 2.35,
       "pose": {
-        "x": 6.5,
-        "y": 1.0,
+        "x": 650.0,
+        "y": 100.0,
         "rotation": 157.5
       }
     },
@@ -139,8 +139,8 @@
       "holdType": "CRIMP",
       "difficulty": 6.07,
       "pose": {
-        "x": 7.5,
-        "y": 1.0,
+        "x": 750.0,
+        "y": 100.0,
         "rotation": 67.5
       }
     },
@@ -148,8 +148,8 @@
       "holdType": "EDGE",
       "difficulty": 8.56,
       "pose": {
-        "x": 8.5,
-        "y": 1.0,
+        "x": 850.0,
+        "y": 100.0,
         "rotation": 45
       }
     },
@@ -157,8 +157,8 @@
       "holdType": "PINCH",
       "difficulty": 4.57,
       "pose": {
-        "x": 9.5,
-        "y": 1.0,
+        "x": 950.0,
+        "y": 100.0,
         "rotation": 225
       }
     },
@@ -166,8 +166,8 @@
       "holdType": "CRIMP",
       "difficulty": 5.4,
       "pose": {
-        "x": 1.0,
-        "y": 1.5,
+        "x": 100.0,
+        "y": 150.0,
         "rotation": 315
       }
     },
@@ -175,8 +175,8 @@
       "holdType": "PINCH",
       "difficulty": 2.63,
       "pose": {
-        "x": 2.0,
-        "y": 1.5,
+        "x": 200.0,
+        "y": 150.0,
         "rotation": 135
       }
     },
@@ -184,8 +184,8 @@
       "holdType": "POCKET",
       "difficulty": 4.52,
       "pose": {
-        "x": 3.0,
-        "y": 1.5,
+        "x": 300.0,
+        "y": 150.0,
         "rotation": 0
       }
     },
@@ -193,8 +193,8 @@
       "holdType": "EDGE",
       "difficulty": 4.83,
       "pose": {
-        "x": 4.0,
-        "y": 1.5,
+        "x": 400.0,
+        "y": 150.0,
         "rotation": 45
       }
     },
@@ -202,8 +202,8 @@
       "holdType": "SLOPER",
       "difficulty": 4.22,
       "pose": {
-        "x": 5.0,
-        "y": 1.5,
+        "x": 500.0,
+        "y": 150.0,
         "rotation": 0
       }
     },
@@ -211,8 +211,8 @@
       "holdType": "EDGE",
       "difficulty": 1.32,
       "pose": {
-        "x": 6.0,
-        "y": 1.5,
+        "x": 600.0,
+        "y": 150.0,
         "rotation": 315
       }
     },
@@ -220,8 +220,8 @@
       "holdType": "CRIMP",
       "difficulty": 8.3,
       "pose": {
-        "x": 7.0,
-        "y": 1.5,
+        "x": 700.0,
+        "y": 150.0,
         "rotation": 337.5
       }
     },
@@ -229,8 +229,8 @@
       "holdType": "PINCH",
       "difficulty": 1.91,
       "pose": {
-        "x": 8.0,
-        "y": 1.5,
+        "x": 800.0,
+        "y": 150.0,
         "rotation": 247.5
       }
     },
@@ -238,8 +238,8 @@
       "holdType": "SLOPER",
       "difficulty": 6.11,
       "pose": {
-        "x": 9.0,
-        "y": 1.5,
+        "x": 900.0,
+        "y": 150.0,
         "rotation": 225
       }
     },
@@ -247,8 +247,8 @@
       "holdType": "EDGE",
       "difficulty": 7.07,
       "pose": {
-        "x": 1.5,
-        "y": 1.5,
+        "x": 150.0,
+        "y": 150.0,
         "rotation": 67.5
       }
     },
@@ -256,8 +256,8 @@
       "holdType": "SLOPER",
       "difficulty": 4.39,
       "pose": {
-        "x": 2.5,
-        "y": 1.5,
+        "x": 250.0,
+        "y": 150.0,
         "rotation": 22.5
       }
     },
@@ -265,8 +265,8 @@
       "holdType": "PINCH",
       "difficulty": 4.61,
       "pose": {
-        "x": 3.5,
-        "y": 1.5,
+        "x": 350.0,
+        "y": 150.0,
         "rotation": 157.5
       }
     },
@@ -274,8 +274,8 @@
       "holdType": "PINCH",
       "difficulty": 2.87,
       "pose": {
-        "x": 4.5,
-        "y": 1.5,
+        "x": 450.0,
+        "y": 150.0,
         "rotation": 247.5
       }
     },
@@ -283,8 +283,8 @@
       "holdType": "JUG",
       "difficulty": 4.52,
       "pose": {
-        "x": 5.5,
-        "y": 1.5,
+        "x": 550.0,
+        "y": 150.0,
         "rotation": 45
       }
     },
@@ -292,8 +292,8 @@
       "holdType": "EDGE",
       "difficulty": 5.23,
       "pose": {
-        "x": 6.5,
-        "y": 1.5,
+        "x": 650.0,
+        "y": 150.0,
         "rotation": 112.5
       }
     },
@@ -301,8 +301,8 @@
       "holdType": "CRIMP",
       "difficulty": 3.6,
       "pose": {
-        "x": 7.5,
-        "y": 1.5,
+        "x": 750.0,
+        "y": 150.0,
         "rotation": 270
       }
     },
@@ -310,8 +310,8 @@
       "holdType": "POCKET",
       "difficulty": 6.49,
       "pose": {
-        "x": 8.5,
-        "y": 1.5,
+        "x": 850.0,
+        "y": 150.0,
         "rotation": 112.5
       }
     },
@@ -319,8 +319,8 @@
       "holdType": "SLOPER",
       "difficulty": 4.14,
       "pose": {
-        "x": 9.5,
-        "y": 1.5,
+        "x": 950.0,
+        "y": 150.0,
         "rotation": 292.5
       }
     },
@@ -328,8 +328,8 @@
       "holdType": "EDGE",
       "difficulty": 4.09,
       "pose": {
-        "x": 1.0,
-        "y": 2.0,
+        "x": 100.0,
+        "y": 200.0,
         "rotation": 315
       }
     },
@@ -337,8 +337,8 @@
       "holdType": "EDGE",
       "difficulty": 9.44,
       "pose": {
-        "x": 2.0,
-        "y": 2.0,
+        "x": 200.0,
+        "y": 200.0,
         "rotation": 315
       }
     },
@@ -346,8 +346,8 @@
       "holdType": "EDGE",
       "difficulty": 3.56,
       "pose": {
-        "x": 3.0,
-        "y": 2.0,
+        "x": 300.0,
+        "y": 200.0,
         "rotation": 157.5
       }
     },
@@ -355,8 +355,8 @@
       "holdType": "CRIMP",
       "difficulty": 9.5,
       "pose": {
-        "x": 4.0,
-        "y": 2.0,
+        "x": 400.0,
+        "y": 200.0,
         "rotation": 157.5
       }
     },
@@ -364,8 +364,8 @@
       "holdType": "SLOPER",
       "difficulty": 5.14,
       "pose": {
-        "x": 5.0,
-        "y": 2.0,
+        "x": 500.0,
+        "y": 200.0,
         "rotation": 157.5
       }
     },
@@ -373,8 +373,8 @@
       "holdType": "CRIMP",
       "difficulty": 4.8,
       "pose": {
-        "x": 6.0,
-        "y": 2.0,
+        "x": 600.0,
+        "y": 200.0,
         "rotation": 180
       }
     },
@@ -382,8 +382,8 @@
       "holdType": "POCKET",
       "difficulty": 7.46,
       "pose": {
-        "x": 7.0,
-        "y": 2.0,
+        "x": 700.0,
+        "y": 200.0,
         "rotation": 22.5
       }
     },
@@ -391,8 +391,8 @@
       "holdType": "SLOPER",
       "difficulty": 2.73,
       "pose": {
-        "x": 8.0,
-        "y": 2.0,
+        "x": 800.0,
+        "y": 200.0,
         "rotation": 112.5
       }
     },
@@ -400,8 +400,8 @@
       "holdType": "EDGE",
       "difficulty": 7.76,
       "pose": {
-        "x": 9.0,
-        "y": 2.0,
+        "x": 900.0,
+        "y": 200.0,
         "rotation": 135
       }
     },
@@ -409,8 +409,8 @@
       "holdType": "CRIMP",
       "difficulty": 5.9,
       "pose": {
-        "x": 1.5,
-        "y": 2.0,
+        "x": 150.0,
+        "y": 200.0,
         "rotation": 292.5
       }
     },
@@ -418,8 +418,8 @@
       "holdType": "SLOPER",
       "difficulty": 5.14,
       "pose": {
-        "x": 2.5,
-        "y": 2.0,
+        "x": 250.0,
+        "y": 200.0,
         "rotation": 337.5
       }
     },
@@ -427,8 +427,8 @@
       "holdType": "EDGE",
       "difficulty": 4.6,
       "pose": {
-        "x": 3.5,
-        "y": 2.0,
+        "x": 350.0,
+        "y": 200.0,
         "rotation": 292.5
       }
     },
@@ -436,8 +436,8 @@
       "holdType": "CRIMP",
       "difficulty": 6.19,
       "pose": {
-        "x": 4.5,
-        "y": 2.0,
+        "x": 450.0,
+        "y": 200.0,
         "rotation": 225
       }
     },
@@ -445,8 +445,8 @@
       "holdType": "SLOPER",
       "difficulty": 1.12,
       "pose": {
-        "x": 5.5,
-        "y": 2.0,
+        "x": 550.0,
+        "y": 200.0,
         "rotation": 0
       }
     },
@@ -454,8 +454,8 @@
       "holdType": "SLOPER",
       "difficulty": 3.14,
       "pose": {
-        "x": 6.5,
-        "y": 2.0,
+        "x": 650.0,
+        "y": 200.0,
         "rotation": 225
       }
     },
@@ -463,8 +463,8 @@
       "holdType": "SLOPER",
       "difficulty": 5.46,
       "pose": {
-        "x": 7.5,
-        "y": 2.0,
+        "x": 750.0,
+        "y": 200.0,
         "rotation": 337.5
       }
     },
@@ -472,8 +472,8 @@
       "holdType": "SLOPER",
       "difficulty": 1.54,
       "pose": {
-        "x": 8.5,
-        "y": 2.0,
+        "x": 850.0,
+        "y": 200.0,
         "rotation": 67.5
       }
     },
@@ -481,8 +481,8 @@
       "holdType": "JUG",
       "difficulty": 5.67,
       "pose": {
-        "x": 9.5,
-        "y": 2.0,
+        "x": 950.0,
+        "y": 200.0,
         "rotation": 270
       }
     },
@@ -490,8 +490,8 @@
       "holdType": "PINCH",
       "difficulty": 9.96,
       "pose": {
-        "x": 1.0,
-        "y": 2.5,
+        "x": 100.0,
+        "y": 250.0,
         "rotation": 292.5
       }
     },
@@ -499,8 +499,8 @@
       "holdType": "PINCH",
       "difficulty": 8.58,
       "pose": {
-        "x": 2.0,
-        "y": 2.5,
+        "x": 200.0,
+        "y": 250.0,
         "rotation": 180
       }
     },
@@ -508,8 +508,8 @@
       "holdType": "JUG",
       "difficulty": 6.11,
       "pose": {
-        "x": 3.0,
-        "y": 2.5,
+        "x": 300.0,
+        "y": 250.0,
         "rotation": 180
       }
     },
@@ -517,8 +517,8 @@
       "holdType": "CRIMP",
       "difficulty": 1.14,
       "pose": {
-        "x": 4.0,
-        "y": 2.5,
+        "x": 400.0,
+        "y": 250.0,
         "rotation": 337.5
       }
     },
@@ -526,8 +526,8 @@
       "holdType": "SLOPER",
       "difficulty": 8.9,
       "pose": {
-        "x": 5.0,
-        "y": 2.5,
+        "x": 500.0,
+        "y": 250.0,
         "rotation": 45
       }
     },
@@ -535,8 +535,8 @@
       "holdType": "JUG",
       "difficulty": 1.72,
       "pose": {
-        "x": 6.0,
-        "y": 2.5,
+        "x": 600.0,
+        "y": 250.0,
         "rotation": 292.5
       }
     },
@@ -544,8 +544,8 @@
       "holdType": "POCKET",
       "difficulty": 1.14,
       "pose": {
-        "x": 7.0,
-        "y": 2.5,
+        "x": 700.0,
+        "y": 250.0,
         "rotation": 225
       }
     },
@@ -553,8 +553,8 @@
       "holdType": "EDGE",
       "difficulty": 3.51,
       "pose": {
-        "x": 8.0,
-        "y": 2.5,
+        "x": 800.0,
+        "y": 250.0,
         "rotation": 22.5
       }
     },
@@ -562,8 +562,8 @@
       "holdType": "POCKET",
       "difficulty": 4.44,
       "pose": {
-        "x": 9.0,
-        "y": 2.5,
+        "x": 900.0,
+        "y": 250.0,
         "rotation": 0
       }
     },
@@ -571,8 +571,8 @@
       "holdType": "PINCH",
       "difficulty": 1.55,
       "pose": {
-        "x": 1.5,
-        "y": 2.5,
+        "x": 150.0,
+        "y": 250.0,
         "rotation": 157.5
       }
     },
@@ -580,8 +580,8 @@
       "holdType": "SLOPER",
       "difficulty": 8.6,
       "pose": {
-        "x": 2.5,
-        "y": 2.5,
+        "x": 250.0,
+        "y": 250.0,
         "rotation": 202.5
       }
     },
@@ -589,8 +589,8 @@
       "holdType": "POCKET",
       "difficulty": 7.57,
       "pose": {
-        "x": 3.5,
-        "y": 2.5,
+        "x": 350.0,
+        "y": 250.0,
         "rotation": 225
       }
     },
@@ -598,8 +598,8 @@
       "holdType": "PINCH",
       "difficulty": 1.16,
       "pose": {
-        "x": 4.5,
-        "y": 2.5,
+        "x": 450.0,
+        "y": 250.0,
         "rotation": 202.5
       }
     },
@@ -607,8 +607,8 @@
       "holdType": "JUG",
       "difficulty": 7.67,
       "pose": {
-        "x": 5.5,
-        "y": 2.5,
+        "x": 550.0,
+        "y": 250.0,
         "rotation": 180
       }
     },
@@ -616,8 +616,8 @@
       "holdType": "EDGE",
       "difficulty": 4.05,
       "pose": {
-        "x": 6.5,
-        "y": 2.5,
+        "x": 650.0,
+        "y": 250.0,
         "rotation": 225
       }
     },
@@ -625,8 +625,8 @@
       "holdType": "JUG",
       "difficulty": 7.09,
       "pose": {
-        "x": 7.5,
-        "y": 2.5,
+        "x": 750.0,
+        "y": 250.0,
         "rotation": 337.5
       }
     },
@@ -634,8 +634,8 @@
       "holdType": "PINCH",
       "difficulty": 9.48,
       "pose": {
-        "x": 8.5,
-        "y": 2.5,
+        "x": 850.0,
+        "y": 250.0,
         "rotation": 90
       }
     },
@@ -643,8 +643,8 @@
       "holdType": "CRIMP",
       "difficulty": 4.52,
       "pose": {
-        "x": 9.5,
-        "y": 2.5,
+        "x": 950.0,
+        "y": 250.0,
         "rotation": 225
       }
     },
@@ -652,8 +652,8 @@
       "holdType": "CRIMP",
       "difficulty": 6.62,
       "pose": {
-        "x": 1.0,
-        "y": 3.0,
+        "x": 100.0,
+        "y": 300.0,
         "rotation": 292.5
       }
     },
@@ -661,8 +661,8 @@
       "holdType": "JUG",
       "difficulty": 6.55,
       "pose": {
-        "x": 2.0,
-        "y": 3.0,
+        "x": 200.0,
+        "y": 300.0,
         "rotation": 337.5
       }
     },
@@ -670,8 +670,8 @@
       "holdType": "POCKET",
       "difficulty": 2.08,
       "pose": {
-        "x": 3.0,
-        "y": 3.0,
+        "x": 300.0,
+        "y": 300.0,
         "rotation": 315
       }
     },
@@ -679,8 +679,8 @@
       "holdType": "CRIMP",
       "difficulty": 3.18,
       "pose": {
-        "x": 4.0,
-        "y": 3.0,
+        "x": 400.0,
+        "y": 300.0,
         "rotation": 315
       }
     },
@@ -688,8 +688,8 @@
       "holdType": "CRIMP",
       "difficulty": 8.39,
       "pose": {
-        "x": 5.0,
-        "y": 3.0,
+        "x": 500.0,
+        "y": 300.0,
         "rotation": 112.5
       }
     },
@@ -697,8 +697,8 @@
       "holdType": "SLOPER",
       "difficulty": 4.68,
       "pose": {
-        "x": 6.0,
-        "y": 3.0,
+        "x": 600.0,
+        "y": 300.0,
         "rotation": 225
       }
     },
@@ -706,8 +706,8 @@
       "holdType": "EDGE",
       "difficulty": 5.25,
       "pose": {
-        "x": 7.0,
-        "y": 3.0,
+        "x": 700.0,
+        "y": 300.0,
         "rotation": 45
       }
     },
@@ -715,8 +715,8 @@
       "holdType": "JUG",
       "difficulty": 3.16,
       "pose": {
-        "x": 8.0,
-        "y": 3.0,
+        "x": 800.0,
+        "y": 300.0,
         "rotation": 337.5
       }
     },
@@ -724,8 +724,8 @@
       "holdType": "EDGE",
       "difficulty": 7.36,
       "pose": {
-        "x": 9.0,
-        "y": 3.0,
+        "x": 900.0,
+        "y": 300.0,
         "rotation": 337.5
       }
     },
@@ -733,8 +733,8 @@
       "holdType": "PINCH",
       "difficulty": 8.45,
       "pose": {
-        "x": 1.5,
-        "y": 3.0,
+        "x": 150.0,
+        "y": 300.0,
         "rotation": 90
       }
     },
@@ -742,8 +742,8 @@
       "holdType": "SLOPER",
       "difficulty": 6.86,
       "pose": {
-        "x": 2.5,
-        "y": 3.0,
+        "x": 250.0,
+        "y": 300.0,
         "rotation": 45
       }
     },
@@ -751,8 +751,8 @@
       "holdType": "JUG",
       "difficulty": 1.67,
       "pose": {
-        "x": 3.5,
-        "y": 3.0,
+        "x": 350.0,
+        "y": 300.0,
         "rotation": 157.5
       }
     },
@@ -760,8 +760,8 @@
       "holdType": "CRIMP",
       "difficulty": 2.21,
       "pose": {
-        "x": 4.5,
-        "y": 3.0,
+        "x": 450.0,
+        "y": 300.0,
         "rotation": 270
       }
     },
@@ -769,8 +769,8 @@
       "holdType": "PINCH",
       "difficulty": 8.12,
       "pose": {
-        "x": 5.5,
-        "y": 3.0,
+        "x": 550.0,
+        "y": 300.0,
         "rotation": 90
       }
     },
@@ -778,8 +778,8 @@
       "holdType": "EDGE",
       "difficulty": 4.57,
       "pose": {
-        "x": 6.5,
-        "y": 3.0,
+        "x": 650.0,
+        "y": 300.0,
         "rotation": 270
       }
     },
@@ -787,8 +787,8 @@
       "holdType": "POCKET",
       "difficulty": 1.68,
       "pose": {
-        "x": 7.5,
-        "y": 3.0,
+        "x": 750.0,
+        "y": 300.0,
         "rotation": 180
       }
     },
@@ -796,8 +796,8 @@
       "holdType": "JUG",
       "difficulty": 1.24,
       "pose": {
-        "x": 8.5,
-        "y": 3.0,
+        "x": 850.0,
+        "y": 300.0,
         "rotation": 202.5
       }
     },
@@ -805,8 +805,8 @@
       "holdType": "CRIMP",
       "difficulty": 4.85,
       "pose": {
-        "x": 9.5,
-        "y": 3.0,
+        "x": 950.0,
+        "y": 300.0,
         "rotation": 247.5
       }
     },
@@ -814,8 +814,8 @@
       "holdType": "PINCH",
       "difficulty": 9.28,
       "pose": {
-        "x": 1.0,
-        "y": 3.5,
+        "x": 100.0,
+        "y": 350.0,
         "rotation": 157.5
       }
     },
@@ -823,8 +823,8 @@
       "holdType": "SLOPER",
       "difficulty": 9.38,
       "pose": {
-        "x": 2.0,
-        "y": 3.5,
+        "x": 200.0,
+        "y": 350.0,
         "rotation": 337.5
       }
     },
@@ -832,8 +832,8 @@
       "holdType": "PINCH",
       "difficulty": 7.53,
       "pose": {
-        "x": 3.0,
-        "y": 3.5,
+        "x": 300.0,
+        "y": 350.0,
         "rotation": 247.5
       }
     },
@@ -841,8 +841,8 @@
       "holdType": "PINCH",
       "difficulty": 9.02,
       "pose": {
-        "x": 4.0,
-        "y": 3.5,
+        "x": 400.0,
+        "y": 350.0,
         "rotation": 247.5
       }
     },
@@ -850,8 +850,8 @@
       "holdType": "POCKET",
       "difficulty": 1.22,
       "pose": {
-        "x": 5.0,
-        "y": 3.5,
+        "x": 500.0,
+        "y": 350.0,
         "rotation": 0
       }
     },
@@ -859,8 +859,8 @@
       "holdType": "SLOPER",
       "difficulty": 1.21,
       "pose": {
-        "x": 6.0,
-        "y": 3.5,
+        "x": 600.0,
+        "y": 350.0,
         "rotation": 247.5
       }
     },
@@ -868,8 +868,8 @@
       "holdType": "PINCH",
       "difficulty": 7.71,
       "pose": {
-        "x": 7.0,
-        "y": 3.5,
+        "x": 700.0,
+        "y": 350.0,
         "rotation": 45
       }
     },
@@ -877,8 +877,8 @@
       "holdType": "JUG",
       "difficulty": 6.03,
       "pose": {
-        "x": 8.0,
-        "y": 3.5,
+        "x": 800.0,
+        "y": 350.0,
         "rotation": 292.5
       }
     },
@@ -886,8 +886,8 @@
       "holdType": "PINCH",
       "difficulty": 4.71,
       "pose": {
-        "x": 9.0,
-        "y": 3.5,
+        "x": 900.0,
+        "y": 350.0,
         "rotation": 180
       }
     },
@@ -895,8 +895,8 @@
       "holdType": "PINCH",
       "difficulty": 6.84,
       "pose": {
-        "x": 1.5,
-        "y": 3.5,
+        "x": 150.0,
+        "y": 350.0,
         "rotation": 247.5
       }
     },
@@ -904,8 +904,8 @@
       "holdType": "JUG",
       "difficulty": 7.64,
       "pose": {
-        "x": 2.5,
-        "y": 3.5,
+        "x": 250.0,
+        "y": 350.0,
         "rotation": 45
       }
     },
@@ -913,8 +913,8 @@
       "holdType": "JUG",
       "difficulty": 9.05,
       "pose": {
-        "x": 3.5,
-        "y": 3.5,
+        "x": 350.0,
+        "y": 350.0,
         "rotation": 67.5
       }
     },
@@ -922,8 +922,8 @@
       "holdType": "PINCH",
       "difficulty": 3.4,
       "pose": {
-        "x": 4.5,
-        "y": 3.5,
+        "x": 450.0,
+        "y": 350.0,
         "rotation": 45
       }
     },
@@ -931,8 +931,8 @@
       "holdType": "CRIMP",
       "difficulty": 8.51,
       "pose": {
-        "x": 5.5,
-        "y": 3.5,
+        "x": 550.0,
+        "y": 350.0,
         "rotation": 112.5
       }
     },
@@ -940,8 +940,8 @@
       "holdType": "CRIMP",
       "difficulty": 8.83,
       "pose": {
-        "x": 6.5,
-        "y": 3.5,
+        "x": 650.0,
+        "y": 350.0,
         "rotation": 180
       }
     },
@@ -949,8 +949,8 @@
       "holdType": "CRIMP",
       "difficulty": 5.74,
       "pose": {
-        "x": 7.5,
-        "y": 3.5,
+        "x": 750.0,
+        "y": 350.0,
         "rotation": 270
       }
     },
@@ -958,8 +958,8 @@
       "holdType": "JUG",
       "difficulty": 9.94,
       "pose": {
-        "x": 8.5,
-        "y": 3.5,
+        "x": 850.0,
+        "y": 350.0,
         "rotation": 315
       }
     },
@@ -967,8 +967,8 @@
       "holdType": "POCKET",
       "difficulty": 6.26,
       "pose": {
-        "x": 9.5,
-        "y": 3.5,
+        "x": 950.0,
+        "y": 350.0,
         "rotation": 112.5
       }
     },
@@ -976,8 +976,8 @@
       "holdType": "SLOPER",
       "difficulty": 8.08,
       "pose": {
-        "x": 1.0,
-        "y": 4.0,
+        "x": 100.0,
+        "y": 400.0,
         "rotation": 135
       }
     },
@@ -985,8 +985,8 @@
       "holdType": "SLOPER",
       "difficulty": 8.98,
       "pose": {
-        "x": 2.0,
-        "y": 4.0,
+        "x": 200.0,
+        "y": 400.0,
         "rotation": 247.5
       }
     },
@@ -994,8 +994,8 @@
       "holdType": "EDGE",
       "difficulty": 1.81,
       "pose": {
-        "x": 3.0,
-        "y": 4.0,
+        "x": 300.0,
+        "y": 400.0,
         "rotation": 225
       }
     },
@@ -1003,8 +1003,8 @@
       "holdType": "JUG",
       "difficulty": 6.91,
       "pose": {
-        "x": 4.0,
-        "y": 4.0,
+        "x": 400.0,
+        "y": 400.0,
         "rotation": 67.5
       }
     },
@@ -1012,8 +1012,8 @@
       "holdType": "POCKET",
       "difficulty": 3.64,
       "pose": {
-        "x": 5.0,
-        "y": 4.0,
+        "x": 500.0,
+        "y": 400.0,
         "rotation": 22.5
       }
     },
@@ -1021,8 +1021,8 @@
       "holdType": "EDGE",
       "difficulty": 1.76,
       "pose": {
-        "x": 6.0,
-        "y": 4.0,
+        "x": 600.0,
+        "y": 400.0,
         "rotation": 292.5
       }
     },
@@ -1030,8 +1030,8 @@
       "holdType": "SLOPER",
       "difficulty": 3.15,
       "pose": {
-        "x": 7.0,
-        "y": 4.0,
+        "x": 700.0,
+        "y": 400.0,
         "rotation": 225
       }
     },
@@ -1039,8 +1039,8 @@
       "holdType": "JUG",
       "difficulty": 6.26,
       "pose": {
-        "x": 8.0,
-        "y": 4.0,
+        "x": 800.0,
+        "y": 400.0,
         "rotation": 67.5
       }
     },
@@ -1048,8 +1048,8 @@
       "holdType": "EDGE",
       "difficulty": 9.35,
       "pose": {
-        "x": 9.0,
-        "y": 4.0,
+        "x": 900.0,
+        "y": 400.0,
         "rotation": 337.5
       }
     },
@@ -1057,8 +1057,8 @@
       "holdType": "PINCH",
       "difficulty": 1.49,
       "pose": {
-        "x": 1.5,
-        "y": 4.0,
+        "x": 150.0,
+        "y": 400.0,
         "rotation": 292.5
       }
     },
@@ -1066,8 +1066,8 @@
       "holdType": "SLOPER",
       "difficulty": 6.62,
       "pose": {
-        "x": 2.5,
-        "y": 4.0,
+        "x": 250.0,
+        "y": 400.0,
         "rotation": 0
       }
     },
@@ -1075,8 +1075,8 @@
       "holdType": "JUG",
       "difficulty": 7.81,
       "pose": {
-        "x": 3.5,
-        "y": 4.0,
+        "x": 350.0,
+        "y": 400.0,
         "rotation": 157.5
       }
     },
@@ -1084,8 +1084,8 @@
       "holdType": "POCKET",
       "difficulty": 3.28,
       "pose": {
-        "x": 4.5,
-        "y": 4.0,
+        "x": 450.0,
+        "y": 400.0,
         "rotation": 180
       }
     },
@@ -1093,8 +1093,8 @@
       "holdType": "SLOPER",
       "difficulty": 4.24,
       "pose": {
-        "x": 5.5,
-        "y": 4.0,
+        "x": 550.0,
+        "y": 400.0,
         "rotation": 225
       }
     },
@@ -1102,8 +1102,8 @@
       "holdType": "POCKET",
       "difficulty": 7.32,
       "pose": {
-        "x": 6.5,
-        "y": 4.0,
+        "x": 650.0,
+        "y": 400.0,
         "rotation": 315
       }
     },
@@ -1111,8 +1111,8 @@
       "holdType": "PINCH",
       "difficulty": 3.89,
       "pose": {
-        "x": 7.5,
-        "y": 4.0,
+        "x": 750.0,
+        "y": 400.0,
         "rotation": 247.5
       }
     },
@@ -1120,8 +1120,8 @@
       "holdType": "SLOPER",
       "difficulty": 7.37,
       "pose": {
-        "x": 8.5,
-        "y": 4.0,
+        "x": 850.0,
+        "y": 400.0,
         "rotation": 45
       }
     },
@@ -1129,8 +1129,8 @@
       "holdType": "POCKET",
       "difficulty": 8.52,
       "pose": {
-        "x": 9.5,
-        "y": 4.0,
+        "x": 950.0,
+        "y": 400.0,
         "rotation": 67.5
       }
     },
@@ -1138,8 +1138,8 @@
       "holdType": "JUG",
       "difficulty": 1.71,
       "pose": {
-        "x": 1.0,
-        "y": 4.5,
+        "x": 100.0,
+        "y": 450.0,
         "rotation": 135
       }
     },
@@ -1147,8 +1147,8 @@
       "holdType": "EDGE",
       "difficulty": 4.0,
       "pose": {
-        "x": 2.0,
-        "y": 4.5,
+        "x": 200.0,
+        "y": 450.0,
         "rotation": 180
       }
     },
@@ -1156,8 +1156,8 @@
       "holdType": "EDGE",
       "difficulty": 3.49,
       "pose": {
-        "x": 3.0,
-        "y": 4.5,
+        "x": 300.0,
+        "y": 450.0,
         "rotation": 67.5
       }
     },
@@ -1165,8 +1165,8 @@
       "holdType": "JUG",
       "difficulty": 8.92,
       "pose": {
-        "x": 4.0,
-        "y": 4.5,
+        "x": 400.0,
+        "y": 450.0,
         "rotation": 67.5
       }
     },
@@ -1174,8 +1174,8 @@
       "holdType": "SLOPER",
       "difficulty": 8.12,
       "pose": {
-        "x": 5.0,
-        "y": 4.5,
+        "x": 500.0,
+        "y": 450.0,
         "rotation": 90
       }
     },
@@ -1183,8 +1183,8 @@
       "holdType": "SLOPER",
       "difficulty": 2.76,
       "pose": {
-        "x": 6.0,
-        "y": 4.5,
+        "x": 600.0,
+        "y": 450.0,
         "rotation": 337.5
       }
     },
@@ -1192,8 +1192,8 @@
       "holdType": "CRIMP",
       "difficulty": 6.67,
       "pose": {
-        "x": 7.0,
-        "y": 4.5,
+        "x": 700.0,
+        "y": 450.0,
         "rotation": 0
       }
     },
@@ -1201,8 +1201,8 @@
       "holdType": "SLOPER",
       "difficulty": 9.56,
       "pose": {
-        "x": 8.0,
-        "y": 4.5,
+        "x": 800.0,
+        "y": 450.0,
         "rotation": 202.5
       }
     },
@@ -1210,8 +1210,8 @@
       "holdType": "EDGE",
       "difficulty": 4.29,
       "pose": {
-        "x": 9.0,
-        "y": 4.5,
+        "x": 900.0,
+        "y": 450.0,
         "rotation": 112.5
       }
     },
@@ -1219,8 +1219,8 @@
       "holdType": "CRIMP",
       "difficulty": 2.78,
       "pose": {
-        "x": 1.5,
-        "y": 4.5,
+        "x": 150.0,
+        "y": 450.0,
         "rotation": 112.5
       }
     },
@@ -1228,8 +1228,8 @@
       "holdType": "SLOPER",
       "difficulty": 3.95,
       "pose": {
-        "x": 2.5,
-        "y": 4.5,
+        "x": 250.0,
+        "y": 450.0,
         "rotation": 270
       }
     },
@@ -1237,8 +1237,8 @@
       "holdType": "POCKET",
       "difficulty": 9.63,
       "pose": {
-        "x": 3.5,
-        "y": 4.5,
+        "x": 350.0,
+        "y": 450.0,
         "rotation": 180
       }
     },
@@ -1246,8 +1246,8 @@
       "holdType": "CRIMP",
       "difficulty": 6.15,
       "pose": {
-        "x": 4.5,
-        "y": 4.5,
+        "x": 450.0,
+        "y": 450.0,
         "rotation": 0
       }
     },
@@ -1255,8 +1255,8 @@
       "holdType": "EDGE",
       "difficulty": 7.74,
       "pose": {
-        "x": 5.5,
-        "y": 4.5,
+        "x": 550.0,
+        "y": 450.0,
         "rotation": 270
       }
     },
@@ -1264,8 +1264,8 @@
       "holdType": "CRIMP",
       "difficulty": 4.5,
       "pose": {
-        "x": 6.5,
-        "y": 4.5,
+        "x": 650.0,
+        "y": 450.0,
         "rotation": 292.5
       }
     },
@@ -1273,8 +1273,8 @@
       "holdType": "POCKET",
       "difficulty": 7.21,
       "pose": {
-        "x": 7.5,
-        "y": 4.5,
+        "x": 750.0,
+        "y": 450.0,
         "rotation": 337.5
       }
     },
@@ -1282,8 +1282,8 @@
       "holdType": "JUG",
       "difficulty": 2.37,
       "pose": {
-        "x": 8.5,
-        "y": 4.5,
+        "x": 850.0,
+        "y": 450.0,
         "rotation": 67.5
       }
     },
@@ -1291,8 +1291,8 @@
       "holdType": "POCKET",
       "difficulty": 6.97,
       "pose": {
-        "x": 9.5,
-        "y": 4.5,
+        "x": 950.0,
+        "y": 450.0,
         "rotation": 337.5
       }
     },
@@ -1300,8 +1300,8 @@
       "holdType": "JUG",
       "difficulty": 7.63,
       "pose": {
-        "x": 1.0,
-        "y": 5.0,
+        "x": 100.0,
+        "y": 500.0,
         "rotation": 112.5
       }
     },
@@ -1309,8 +1309,8 @@
       "holdType": "JUG",
       "difficulty": 7.7,
       "pose": {
-        "x": 2.0,
-        "y": 5.0,
+        "x": 200.0,
+        "y": 500.0,
         "rotation": 202.5
       }
     },
@@ -1318,8 +1318,8 @@
       "holdType": "EDGE",
       "difficulty": 2.54,
       "pose": {
-        "x": 3.0,
-        "y": 5.0,
+        "x": 300.0,
+        "y": 500.0,
         "rotation": 90
       }
     },
@@ -1327,8 +1327,8 @@
       "holdType": "SLOPER",
       "difficulty": 1.47,
       "pose": {
-        "x": 4.0,
-        "y": 5.0,
+        "x": 400.0,
+        "y": 500.0,
         "rotation": 270
       }
     },
@@ -1336,8 +1336,8 @@
       "holdType": "EDGE",
       "difficulty": 6.16,
       "pose": {
-        "x": 5.0,
-        "y": 5.0,
+        "x": 500.0,
+        "y": 500.0,
         "rotation": 67.5
       }
     },
@@ -1345,8 +1345,8 @@
       "holdType": "EDGE",
       "difficulty": 2.34,
       "pose": {
-        "x": 6.0,
-        "y": 5.0,
+        "x": 600.0,
+        "y": 500.0,
         "rotation": 315
       }
     },
@@ -1354,8 +1354,8 @@
       "holdType": "POCKET",
       "difficulty": 9.79,
       "pose": {
-        "x": 7.0,
-        "y": 5.0,
+        "x": 700.0,
+        "y": 500.0,
         "rotation": 90
       }
     },
@@ -1363,8 +1363,8 @@
       "holdType": "PINCH",
       "difficulty": 8.79,
       "pose": {
-        "x": 8.0,
-        "y": 5.0,
+        "x": 800.0,
+        "y": 500.0,
         "rotation": 225
       }
     },
@@ -1372,8 +1372,8 @@
       "holdType": "EDGE",
       "difficulty": 5.72,
       "pose": {
-        "x": 9.0,
-        "y": 5.0,
+        "x": 900.0,
+        "y": 500.0,
         "rotation": 292.5
       }
     },
@@ -1381,8 +1381,8 @@
       "holdType": "JUG",
       "difficulty": 1.56,
       "pose": {
-        "x": 1.5,
-        "y": 5.0,
+        "x": 150.0,
+        "y": 500.0,
         "rotation": 67.5
       }
     },
@@ -1390,8 +1390,8 @@
       "holdType": "POCKET",
       "difficulty": 3.36,
       "pose": {
-        "x": 2.5,
-        "y": 5.0,
+        "x": 250.0,
+        "y": 500.0,
         "rotation": 270
       }
     },
@@ -1399,8 +1399,8 @@
       "holdType": "SLOPER",
       "difficulty": 2.65,
       "pose": {
-        "x": 3.5,
-        "y": 5.0,
+        "x": 350.0,
+        "y": 500.0,
         "rotation": 337.5
       }
     },
@@ -1408,8 +1408,8 @@
       "holdType": "JUG",
       "difficulty": 9.45,
       "pose": {
-        "x": 4.5,
-        "y": 5.0,
+        "x": 450.0,
+        "y": 500.0,
         "rotation": 90
       }
     },
@@ -1417,8 +1417,8 @@
       "holdType": "PINCH",
       "difficulty": 2.6,
       "pose": {
-        "x": 5.5,
-        "y": 5.0,
+        "x": 550.0,
+        "y": 500.0,
         "rotation": 22.5
       }
     },
@@ -1426,8 +1426,8 @@
       "holdType": "POCKET",
       "difficulty": 2.09,
       "pose": {
-        "x": 6.5,
-        "y": 5.0,
+        "x": 650.0,
+        "y": 500.0,
         "rotation": 67.5
       }
     },
@@ -1435,8 +1435,8 @@
       "holdType": "JUG",
       "difficulty": 5.98,
       "pose": {
-        "x": 7.5,
-        "y": 5.0,
+        "x": 750.0,
+        "y": 500.0,
         "rotation": 247.5
       }
     },
@@ -1444,8 +1444,8 @@
       "holdType": "SLOPER",
       "difficulty": 6.16,
       "pose": {
-        "x": 8.5,
-        "y": 5.0,
+        "x": 850.0,
+        "y": 500.0,
         "rotation": 270
       }
     },
@@ -1453,8 +1453,8 @@
       "holdType": "PINCH",
       "difficulty": 4.28,
       "pose": {
-        "x": 9.5,
-        "y": 5.0,
+        "x": 950.0,
+        "y": 500.0,
         "rotation": 270
       }
     },
@@ -1462,8 +1462,8 @@
       "holdType": "JUG",
       "difficulty": 1.21,
       "pose": {
-        "x": 1.0,
-        "y": 5.5,
+        "x": 100.0,
+        "y": 550.0,
         "rotation": 22.5
       }
     },
@@ -1471,8 +1471,8 @@
       "holdType": "CRIMP",
       "difficulty": 4.93,
       "pose": {
-        "x": 2.0,
-        "y": 5.5,
+        "x": 200.0,
+        "y": 550.0,
         "rotation": 180
       }
     },
@@ -1480,8 +1480,8 @@
       "holdType": "PINCH",
       "difficulty": 5.39,
       "pose": {
-        "x": 3.0,
-        "y": 5.5,
+        "x": 300.0,
+        "y": 550.0,
         "rotation": 247.5
       }
     },
@@ -1489,8 +1489,8 @@
       "holdType": "JUG",
       "difficulty": 9.17,
       "pose": {
-        "x": 4.0,
-        "y": 5.5,
+        "x": 400.0,
+        "y": 550.0,
         "rotation": 247.5
       }
     },
@@ -1498,8 +1498,8 @@
       "holdType": "JUG",
       "difficulty": 8.58,
       "pose": {
-        "x": 5.0,
-        "y": 5.5,
+        "x": 500.0,
+        "y": 550.0,
         "rotation": 270
       }
     },
@@ -1507,8 +1507,8 @@
       "holdType": "JUG",
       "difficulty": 6.56,
       "pose": {
-        "x": 6.0,
-        "y": 5.5,
+        "x": 600.0,
+        "y": 550.0,
         "rotation": 315
       }
     },
@@ -1516,8 +1516,8 @@
       "holdType": "EDGE",
       "difficulty": 7.49,
       "pose": {
-        "x": 7.0,
-        "y": 5.5,
+        "x": 700.0,
+        "y": 550.0,
         "rotation": 67.5
       }
     },
@@ -1525,8 +1525,8 @@
       "holdType": "CRIMP",
       "difficulty": 4.64,
       "pose": {
-        "x": 8.0,
-        "y": 5.5,
+        "x": 800.0,
+        "y": 550.0,
         "rotation": 67.5
       }
     },
@@ -1534,8 +1534,8 @@
       "holdType": "EDGE",
       "difficulty": 2.72,
       "pose": {
-        "x": 9.0,
-        "y": 5.5,
+        "x": 900.0,
+        "y": 550.0,
         "rotation": 112.5
       }
     },
@@ -1543,8 +1543,8 @@
       "holdType": "CRIMP",
       "difficulty": 7.31,
       "pose": {
-        "x": 1.5,
-        "y": 5.5,
+        "x": 150.0,
+        "y": 550.0,
         "rotation": 0
       }
     },
@@ -1552,8 +1552,8 @@
       "holdType": "CRIMP",
       "difficulty": 3.03,
       "pose": {
-        "x": 2.5,
-        "y": 5.5,
+        "x": 250.0,
+        "y": 550.0,
         "rotation": 202.5
       }
     },
@@ -1561,8 +1561,8 @@
       "holdType": "EDGE",
       "difficulty": 9.46,
       "pose": {
-        "x": 3.5,
-        "y": 5.5,
+        "x": 350.0,
+        "y": 550.0,
         "rotation": 292.5
       }
     },
@@ -1570,8 +1570,8 @@
       "holdType": "JUG",
       "difficulty": 4.2,
       "pose": {
-        "x": 4.5,
-        "y": 5.5,
+        "x": 450.0,
+        "y": 550.0,
         "rotation": 157.5
       }
     },
@@ -1579,8 +1579,8 @@
       "holdType": "JUG",
       "difficulty": 7.0,
       "pose": {
-        "x": 5.5,
-        "y": 5.5,
+        "x": 550.0,
+        "y": 550.0,
         "rotation": 292.5
       }
     },
@@ -1588,8 +1588,8 @@
       "holdType": "PINCH",
       "difficulty": 8.06,
       "pose": {
-        "x": 6.5,
-        "y": 5.5,
+        "x": 650.0,
+        "y": 550.0,
         "rotation": 180
       }
     },
@@ -1597,8 +1597,8 @@
       "holdType": "EDGE",
       "difficulty": 7.71,
       "pose": {
-        "x": 7.5,
-        "y": 5.5,
+        "x": 750.0,
+        "y": 550.0,
         "rotation": 292.5
       }
     },
@@ -1606,8 +1606,8 @@
       "holdType": "EDGE",
       "difficulty": 3.16,
       "pose": {
-        "x": 8.5,
-        "y": 5.5,
+        "x": 850.0,
+        "y": 550.0,
         "rotation": 45
       }
     },
@@ -1615,8 +1615,8 @@
       "holdType": "EDGE",
       "difficulty": 6.53,
       "pose": {
-        "x": 9.5,
-        "y": 5.5,
+        "x": 950.0,
+        "y": 550.0,
         "rotation": 67.5
       }
     },
@@ -1624,8 +1624,8 @@
       "holdType": "JUG",
       "difficulty": 5.09,
       "pose": {
-        "x": 1.0,
-        "y": 6.0,
+        "x": 100.0,
+        "y": 600.0,
         "rotation": 90
       }
     },
@@ -1633,8 +1633,8 @@
       "holdType": "EDGE",
       "difficulty": 7.77,
       "pose": {
-        "x": 2.0,
-        "y": 6.0,
+        "x": 200.0,
+        "y": 600.0,
         "rotation": 67.5
       }
     },
@@ -1642,8 +1642,8 @@
       "holdType": "POCKET",
       "difficulty": 6.01,
       "pose": {
-        "x": 3.0,
-        "y": 6.0,
+        "x": 300.0,
+        "y": 600.0,
         "rotation": 247.5
       }
     },
@@ -1651,8 +1651,8 @@
       "holdType": "POCKET",
       "difficulty": 8.52,
       "pose": {
-        "x": 4.0,
-        "y": 6.0,
+        "x": 400.0,
+        "y": 600.0,
         "rotation": 202.5
       }
     },
@@ -1660,8 +1660,8 @@
       "holdType": "EDGE",
       "difficulty": 5.9,
       "pose": {
-        "x": 5.0,
-        "y": 6.0,
+        "x": 500.0,
+        "y": 600.0,
         "rotation": 90
       }
     },
@@ -1669,8 +1669,8 @@
       "holdType": "POCKET",
       "difficulty": 4.74,
       "pose": {
-        "x": 6.0,
-        "y": 6.0,
+        "x": 600.0,
+        "y": 600.0,
         "rotation": 112.5
       }
     },
@@ -1678,8 +1678,8 @@
       "holdType": "CRIMP",
       "difficulty": 3.38,
       "pose": {
-        "x": 7.0,
-        "y": 6.0,
+        "x": 700.0,
+        "y": 600.0,
         "rotation": 157.5
       }
     },
@@ -1687,8 +1687,8 @@
       "holdType": "JUG",
       "difficulty": 6.86,
       "pose": {
-        "x": 8.0,
-        "y": 6.0,
+        "x": 800.0,
+        "y": 600.0,
         "rotation": 180
       }
     },
@@ -1696,8 +1696,8 @@
       "holdType": "SLOPER",
       "difficulty": 9.65,
       "pose": {
-        "x": 9.0,
-        "y": 6.0,
+        "x": 900.0,
+        "y": 600.0,
         "rotation": 337.5
       }
     },
@@ -1705,8 +1705,8 @@
       "holdType": "PINCH",
       "difficulty": 8.82,
       "pose": {
-        "x": 1.5,
-        "y": 6.0,
+        "x": 150.0,
+        "y": 600.0,
         "rotation": 90
       }
     },
@@ -1714,8 +1714,8 @@
       "holdType": "EDGE",
       "difficulty": 7.33,
       "pose": {
-        "x": 2.5,
-        "y": 6.0,
+        "x": 250.0,
+        "y": 600.0,
         "rotation": 292.5
       }
     },
@@ -1723,8 +1723,8 @@
       "holdType": "JUG",
       "difficulty": 5.93,
       "pose": {
-        "x": 3.5,
-        "y": 6.0,
+        "x": 350.0,
+        "y": 600.0,
         "rotation": 337.5
       }
     },
@@ -1732,8 +1732,8 @@
       "holdType": "CRIMP",
       "difficulty": 5.31,
       "pose": {
-        "x": 4.5,
-        "y": 6.0,
+        "x": 450.0,
+        "y": 600.0,
         "rotation": 157.5
       }
     },
@@ -1741,8 +1741,8 @@
       "holdType": "JUG",
       "difficulty": 3.79,
       "pose": {
-        "x": 5.5,
-        "y": 6.0,
+        "x": 550.0,
+        "y": 600.0,
         "rotation": 247.5
       }
     },
@@ -1750,8 +1750,8 @@
       "holdType": "CRIMP",
       "difficulty": 4.49,
       "pose": {
-        "x": 6.5,
-        "y": 6.0,
+        "x": 650.0,
+        "y": 600.0,
         "rotation": 112.5
       }
     },
@@ -1759,8 +1759,8 @@
       "holdType": "POCKET",
       "difficulty": 1.07,
       "pose": {
-        "x": 7.5,
-        "y": 6.0,
+        "x": 750.0,
+        "y": 600.0,
         "rotation": 0
       }
     },
@@ -1768,8 +1768,8 @@
       "holdType": "JUG",
       "difficulty": 7.62,
       "pose": {
-        "x": 8.5,
-        "y": 6.0,
+        "x": 850.0,
+        "y": 600.0,
         "rotation": 22.5
       }
     },
@@ -1777,8 +1777,8 @@
       "holdType": "CRIMP",
       "difficulty": 4.1,
       "pose": {
-        "x": 9.5,
-        "y": 6.0,
+        "x": 950.0,
+        "y": 600.0,
         "rotation": 22.5
       }
     },
@@ -1786,8 +1786,8 @@
       "holdType": "EDGE",
       "difficulty": 8.65,
       "pose": {
-        "x": 1.0,
-        "y": 6.5,
+        "x": 100.0,
+        "y": 650.0,
         "rotation": 315
       }
     },
@@ -1795,8 +1795,8 @@
       "holdType": "PINCH",
       "difficulty": 2.88,
       "pose": {
-        "x": 2.0,
-        "y": 6.5,
+        "x": 200.0,
+        "y": 650.0,
         "rotation": 247.5
       }
     },
@@ -1804,8 +1804,8 @@
       "holdType": "EDGE",
       "difficulty": 3.93,
       "pose": {
-        "x": 3.0,
-        "y": 6.5,
+        "x": 300.0,
+        "y": 650.0,
         "rotation": 22.5
       }
     },
@@ -1813,8 +1813,8 @@
       "holdType": "EDGE",
       "difficulty": 9.05,
       "pose": {
-        "x": 4.0,
-        "y": 6.5,
+        "x": 400.0,
+        "y": 650.0,
         "rotation": 22.5
       }
     },
@@ -1822,8 +1822,8 @@
       "holdType": "EDGE",
       "difficulty": 1.86,
       "pose": {
-        "x": 5.0,
-        "y": 6.5,
+        "x": 500.0,
+        "y": 650.0,
         "rotation": 67.5
       }
     },
@@ -1831,8 +1831,8 @@
       "holdType": "CRIMP",
       "difficulty": 3.71,
       "pose": {
-        "x": 6.0,
-        "y": 6.5,
+        "x": 600.0,
+        "y": 650.0,
         "rotation": 225
       }
     },
@@ -1840,8 +1840,8 @@
       "holdType": "JUG",
       "difficulty": 7.99,
       "pose": {
-        "x": 7.0,
-        "y": 6.5,
+        "x": 700.0,
+        "y": 650.0,
         "rotation": 315
       }
     },
@@ -1849,8 +1849,8 @@
       "holdType": "JUG",
       "difficulty": 2.82,
       "pose": {
-        "x": 8.0,
-        "y": 6.5,
+        "x": 800.0,
+        "y": 650.0,
         "rotation": 0
       }
     },
@@ -1858,8 +1858,8 @@
       "holdType": "PINCH",
       "difficulty": 2.03,
       "pose": {
-        "x": 9.0,
-        "y": 6.5,
+        "x": 900.0,
+        "y": 650.0,
         "rotation": 180
       }
     },
@@ -1867,8 +1867,8 @@
       "holdType": "POCKET",
       "difficulty": 1.75,
       "pose": {
-        "x": 1.5,
-        "y": 6.5,
+        "x": 150.0,
+        "y": 650.0,
         "rotation": 337.5
       }
     },
@@ -1876,8 +1876,8 @@
       "holdType": "SLOPER",
       "difficulty": 1.05,
       "pose": {
-        "x": 2.5,
-        "y": 6.5,
+        "x": 250.0,
+        "y": 650.0,
         "rotation": 90
       }
     },
@@ -1885,8 +1885,8 @@
       "holdType": "POCKET",
       "difficulty": 9.86,
       "pose": {
-        "x": 3.5,
-        "y": 6.5,
+        "x": 350.0,
+        "y": 650.0,
         "rotation": 337.5
       }
     },
@@ -1894,8 +1894,8 @@
       "holdType": "CRIMP",
       "difficulty": 6.14,
       "pose": {
-        "x": 4.5,
-        "y": 6.5,
+        "x": 450.0,
+        "y": 650.0,
         "rotation": 112.5
       }
     },
@@ -1903,8 +1903,8 @@
       "holdType": "EDGE",
       "difficulty": 9.21,
       "pose": {
-        "x": 5.5,
-        "y": 6.5,
+        "x": 550.0,
+        "y": 650.0,
         "rotation": 202.5
       }
     },
@@ -1912,8 +1912,8 @@
       "holdType": "EDGE",
       "difficulty": 4.4,
       "pose": {
-        "x": 6.5,
-        "y": 6.5,
+        "x": 650.0,
+        "y": 650.0,
         "rotation": 90
       }
     },
@@ -1921,8 +1921,8 @@
       "holdType": "EDGE",
       "difficulty": 5.17,
       "pose": {
-        "x": 7.5,
-        "y": 6.5,
+        "x": 750.0,
+        "y": 650.0,
         "rotation": 270
       }
     },
@@ -1930,8 +1930,8 @@
       "holdType": "JUG",
       "difficulty": 6.04,
       "pose": {
-        "x": 8.5,
-        "y": 6.5,
+        "x": 850.0,
+        "y": 650.0,
         "rotation": 180
       }
     },
@@ -1939,8 +1939,8 @@
       "holdType": "SLOPER",
       "difficulty": 5.1,
       "pose": {
-        "x": 9.5,
-        "y": 6.5,
+        "x": 950.0,
+        "y": 650.0,
         "rotation": 112.5
       }
     },
@@ -1948,8 +1948,8 @@
       "holdType": "JUG",
       "difficulty": 6.28,
       "pose": {
-        "x": 1.0,
-        "y": 7.0,
+        "x": 100.0,
+        "y": 700.0,
         "rotation": 45
       }
     },
@@ -1957,8 +1957,8 @@
       "holdType": "PINCH",
       "difficulty": 2.45,
       "pose": {
-        "x": 2.0,
-        "y": 7.0,
+        "x": 200.0,
+        "y": 700.0,
         "rotation": 0
       }
     },
@@ -1966,8 +1966,8 @@
       "holdType": "POCKET",
       "difficulty": 8.28,
       "pose": {
-        "x": 3.0,
-        "y": 7.0,
+        "x": 300.0,
+        "y": 700.0,
         "rotation": 315
       }
     },
@@ -1975,8 +1975,8 @@
       "holdType": "POCKET",
       "difficulty": 9.88,
       "pose": {
-        "x": 4.0,
-        "y": 7.0,
+        "x": 400.0,
+        "y": 700.0,
         "rotation": 135
       }
     },
@@ -1984,8 +1984,8 @@
       "holdType": "SLOPER",
       "difficulty": 7.85,
       "pose": {
-        "x": 5.0,
-        "y": 7.0,
+        "x": 500.0,
+        "y": 700.0,
         "rotation": 157.5
       }
     },
@@ -1993,8 +1993,8 @@
       "holdType": "EDGE",
       "difficulty": 8.75,
       "pose": {
-        "x": 6.0,
-        "y": 7.0,
+        "x": 600.0,
+        "y": 700.0,
         "rotation": 247.5
       }
     },
@@ -2002,8 +2002,8 @@
       "holdType": "SLOPER",
       "difficulty": 9.54,
       "pose": {
-        "x": 7.0,
-        "y": 7.0,
+        "x": 700.0,
+        "y": 700.0,
         "rotation": 22.5
       }
     },
@@ -2011,8 +2011,8 @@
       "holdType": "EDGE",
       "difficulty": 2.26,
       "pose": {
-        "x": 8.0,
-        "y": 7.0,
+        "x": 800.0,
+        "y": 700.0,
         "rotation": 0
       }
     },
@@ -2020,8 +2020,8 @@
       "holdType": "POCKET",
       "difficulty": 3.31,
       "pose": {
-        "x": 9.0,
-        "y": 7.0,
+        "x": 900.0,
+        "y": 700.0,
         "rotation": 112.5
       }
     },
@@ -2029,8 +2029,8 @@
       "holdType": "POCKET",
       "difficulty": 5.12,
       "pose": {
-        "x": 1.5,
-        "y": 7.0,
+        "x": 150.0,
+        "y": 700.0,
         "rotation": 0
       }
     },
@@ -2038,8 +2038,8 @@
       "holdType": "EDGE",
       "difficulty": 7.09,
       "pose": {
-        "x": 2.5,
-        "y": 7.0,
+        "x": 250.0,
+        "y": 700.0,
         "rotation": 315
       }
     },
@@ -2047,8 +2047,8 @@
       "holdType": "PINCH",
       "difficulty": 1.22,
       "pose": {
-        "x": 3.5,
-        "y": 7.0,
+        "x": 350.0,
+        "y": 700.0,
         "rotation": 135
       }
     },
@@ -2056,8 +2056,8 @@
       "holdType": "EDGE",
       "difficulty": 4.9,
       "pose": {
-        "x": 4.5,
-        "y": 7.0,
+        "x": 450.0,
+        "y": 700.0,
         "rotation": 45
       }
     },
@@ -2065,8 +2065,8 @@
       "holdType": "CRIMP",
       "difficulty": 2.7,
       "pose": {
-        "x": 5.5,
-        "y": 7.0,
+        "x": 550.0,
+        "y": 700.0,
         "rotation": 337.5
       }
     },
@@ -2074,8 +2074,8 @@
       "holdType": "JUG",
       "difficulty": 1.47,
       "pose": {
-        "x": 6.5,
-        "y": 7.0,
+        "x": 650.0,
+        "y": 700.0,
         "rotation": 247.5
       }
     },
@@ -2083,8 +2083,8 @@
       "holdType": "POCKET",
       "difficulty": 5.27,
       "pose": {
-        "x": 7.5,
-        "y": 7.0,
+        "x": 750.0,
+        "y": 700.0,
         "rotation": 0
       }
     },
@@ -2092,8 +2092,8 @@
       "holdType": "EDGE",
       "difficulty": 5.76,
       "pose": {
-        "x": 8.5,
-        "y": 7.0,
+        "x": 850.0,
+        "y": 700.0,
         "rotation": 45
       }
     },
@@ -2101,8 +2101,8 @@
       "holdType": "CRIMP",
       "difficulty": 9.88,
       "pose": {
-        "x": 9.5,
-        "y": 7.0,
+        "x": 950.0,
+        "y": 700.0,
         "rotation": 202.5
       }
     },
@@ -2110,8 +2110,8 @@
       "holdType": "SLOPER",
       "difficulty": 3.59,
       "pose": {
-        "x": 1.0,
-        "y": 7.5,
+        "x": 100.0,
+        "y": 750.0,
         "rotation": 180
       }
     },
@@ -2119,8 +2119,8 @@
       "holdType": "CRIMP",
       "difficulty": 6.19,
       "pose": {
-        "x": 2.0,
-        "y": 7.5,
+        "x": 200.0,
+        "y": 750.0,
         "rotation": 270
       }
     },
@@ -2128,8 +2128,8 @@
       "holdType": "POCKET",
       "difficulty": 1.31,
       "pose": {
-        "x": 3.0,
-        "y": 7.5,
+        "x": 300.0,
+        "y": 750.0,
         "rotation": 180
       }
     },
@@ -2137,8 +2137,8 @@
       "holdType": "SLOPER",
       "difficulty": 3.47,
       "pose": {
-        "x": 4.0,
-        "y": 7.5,
+        "x": 400.0,
+        "y": 750.0,
         "rotation": 0
       }
     },
@@ -2146,8 +2146,8 @@
       "holdType": "POCKET",
       "difficulty": 2.91,
       "pose": {
-        "x": 5.0,
-        "y": 7.5,
+        "x": 500.0,
+        "y": 750.0,
         "rotation": 112.5
       }
     },
@@ -2155,8 +2155,8 @@
       "holdType": "SLOPER",
       "difficulty": 1.79,
       "pose": {
-        "x": 6.0,
-        "y": 7.5,
+        "x": 600.0,
+        "y": 750.0,
         "rotation": 337.5
       }
     },
@@ -2164,8 +2164,8 @@
       "holdType": "EDGE",
       "difficulty": 6.33,
       "pose": {
-        "x": 7.0,
-        "y": 7.5,
+        "x": 700.0,
+        "y": 750.0,
         "rotation": 247.5
       }
     },
@@ -2173,8 +2173,8 @@
       "holdType": "JUG",
       "difficulty": 3.49,
       "pose": {
-        "x": 8.0,
-        "y": 7.5,
+        "x": 800.0,
+        "y": 750.0,
         "rotation": 135
       }
     },
@@ -2182,8 +2182,8 @@
       "holdType": "EDGE",
       "difficulty": 8.65,
       "pose": {
-        "x": 9.0,
-        "y": 7.5,
+        "x": 900.0,
+        "y": 750.0,
         "rotation": 157.5
       }
     },
@@ -2191,8 +2191,8 @@
       "holdType": "PINCH",
       "difficulty": 3.87,
       "pose": {
-        "x": 1.5,
-        "y": 7.5,
+        "x": 150.0,
+        "y": 750.0,
         "rotation": 225
       }
     },
@@ -2200,8 +2200,8 @@
       "holdType": "CRIMP",
       "difficulty": 2.82,
       "pose": {
-        "x": 2.5,
-        "y": 7.5,
+        "x": 250.0,
+        "y": 750.0,
         "rotation": 90
       }
     },
@@ -2209,8 +2209,8 @@
       "holdType": "JUG",
       "difficulty": 6.09,
       "pose": {
-        "x": 3.5,
-        "y": 7.5,
+        "x": 350.0,
+        "y": 750.0,
         "rotation": 112.5
       }
     },
@@ -2218,8 +2218,8 @@
       "holdType": "JUG",
       "difficulty": 7.51,
       "pose": {
-        "x": 4.5,
-        "y": 7.5,
+        "x": 450.0,
+        "y": 750.0,
         "rotation": 292.5
       }
     },
@@ -2227,8 +2227,8 @@
       "holdType": "SLOPER",
       "difficulty": 3.29,
       "pose": {
-        "x": 5.5,
-        "y": 7.5,
+        "x": 550.0,
+        "y": 750.0,
         "rotation": 0
       }
     },
@@ -2236,8 +2236,8 @@
       "holdType": "PINCH",
       "difficulty": 1.43,
       "pose": {
-        "x": 6.5,
-        "y": 7.5,
+        "x": 650.0,
+        "y": 750.0,
         "rotation": 202.5
       }
     },
@@ -2245,8 +2245,8 @@
       "holdType": "JUG",
       "difficulty": 1.46,
       "pose": {
-        "x": 7.5,
-        "y": 7.5,
+        "x": 750.0,
+        "y": 750.0,
         "rotation": 45
       }
     },
@@ -2254,8 +2254,8 @@
       "holdType": "JUG",
       "difficulty": 8.34,
       "pose": {
-        "x": 8.5,
-        "y": 7.5,
+        "x": 850.0,
+        "y": 750.0,
         "rotation": 337.5
       }
     },
@@ -2263,8 +2263,8 @@
       "holdType": "JUG",
       "difficulty": 5.38,
       "pose": {
-        "x": 9.5,
-        "y": 7.5,
+        "x": 950.0,
+        "y": 750.0,
         "rotation": 112.5
       }
     },
@@ -2272,8 +2272,8 @@
       "holdType": "PINCH",
       "difficulty": 9.58,
       "pose": {
-        "x": 1.0,
-        "y": 8.0,
+        "x": 100.0,
+        "y": 800.0,
         "rotation": 0
       }
     },
@@ -2281,8 +2281,8 @@
       "holdType": "POCKET",
       "difficulty": 1.97,
       "pose": {
-        "x": 2.0,
-        "y": 8.0,
+        "x": 200.0,
+        "y": 800.0,
         "rotation": 135
       }
     },
@@ -2290,8 +2290,8 @@
       "holdType": "JUG",
       "difficulty": 9.31,
       "pose": {
-        "x": 3.0,
-        "y": 8.0,
+        "x": 300.0,
+        "y": 800.0,
         "rotation": 112.5
       }
     },
@@ -2299,8 +2299,8 @@
       "holdType": "CRIMP",
       "difficulty": 1.62,
       "pose": {
-        "x": 4.0,
-        "y": 8.0,
+        "x": 400.0,
+        "y": 800.0,
         "rotation": 225
       }
     },
@@ -2308,8 +2308,8 @@
       "holdType": "POCKET",
       "difficulty": 3.46,
       "pose": {
-        "x": 5.0,
-        "y": 8.0,
+        "x": 500.0,
+        "y": 800.0,
         "rotation": 0
       }
     },
@@ -2317,8 +2317,8 @@
       "holdType": "EDGE",
       "difficulty": 7.24,
       "pose": {
-        "x": 6.0,
-        "y": 8.0,
+        "x": 600.0,
+        "y": 800.0,
         "rotation": 270
       }
     },
@@ -2326,8 +2326,8 @@
       "holdType": "POCKET",
       "difficulty": 7.99,
       "pose": {
-        "x": 7.0,
-        "y": 8.0,
+        "x": 700.0,
+        "y": 800.0,
         "rotation": 202.5
       }
     },
@@ -2335,8 +2335,8 @@
       "holdType": "PINCH",
       "difficulty": 4.95,
       "pose": {
-        "x": 8.0,
-        "y": 8.0,
+        "x": 800.0,
+        "y": 800.0,
         "rotation": 337.5
       }
     },
@@ -2344,8 +2344,8 @@
       "holdType": "POCKET",
       "difficulty": 8.63,
       "pose": {
-        "x": 9.0,
-        "y": 8.0,
+        "x": 900.0,
+        "y": 800.0,
         "rotation": 135
       }
     },
@@ -2353,8 +2353,8 @@
       "holdType": "POCKET",
       "difficulty": 8.2,
       "pose": {
-        "x": 1.5,
-        "y": 8.0,
+        "x": 150.0,
+        "y": 800.0,
         "rotation": 157.5
       }
     },
@@ -2362,8 +2362,8 @@
       "holdType": "PINCH",
       "difficulty": 9.31,
       "pose": {
-        "x": 2.5,
-        "y": 8.0,
+        "x": 250.0,
+        "y": 800.0,
         "rotation": 247.5
       }
     },
@@ -2371,8 +2371,8 @@
       "holdType": "POCKET",
       "difficulty": 8.68,
       "pose": {
-        "x": 3.5,
-        "y": 8.0,
+        "x": 350.0,
+        "y": 800.0,
         "rotation": 157.5
       }
     },
@@ -2380,8 +2380,8 @@
       "holdType": "PINCH",
       "difficulty": 3.87,
       "pose": {
-        "x": 4.5,
-        "y": 8.0,
+        "x": 450.0,
+        "y": 800.0,
         "rotation": 22.5
       }
     },
@@ -2389,8 +2389,8 @@
       "holdType": "POCKET",
       "difficulty": 9.13,
       "pose": {
-        "x": 5.5,
-        "y": 8.0,
+        "x": 550.0,
+        "y": 800.0,
         "rotation": 135
       }
     },
@@ -2398,8 +2398,8 @@
       "holdType": "EDGE",
       "difficulty": 1.24,
       "pose": {
-        "x": 6.5,
-        "y": 8.0,
+        "x": 650.0,
+        "y": 800.0,
         "rotation": 90
       }
     },
@@ -2407,8 +2407,8 @@
       "holdType": "PINCH",
       "difficulty": 7.19,
       "pose": {
-        "x": 7.5,
-        "y": 8.0,
+        "x": 750.0,
+        "y": 800.0,
         "rotation": 315
       }
     },
@@ -2416,8 +2416,8 @@
       "holdType": "EDGE",
       "difficulty": 2.47,
       "pose": {
-        "x": 8.5,
-        "y": 8.0,
+        "x": 850.0,
+        "y": 800.0,
         "rotation": 247.5
       }
     },
@@ -2425,8 +2425,8 @@
       "holdType": "CRIMP",
       "difficulty": 4.65,
       "pose": {
-        "x": 9.5,
-        "y": 8.0,
+        "x": 950.0,
+        "y": 800.0,
         "rotation": 22.5
       }
     },
@@ -2434,8 +2434,8 @@
       "holdType": "PINCH",
       "difficulty": 5.9,
       "pose": {
-        "x": 1.0,
-        "y": 8.5,
+        "x": 100.0,
+        "y": 850.0,
         "rotation": 135
       }
     },
@@ -2443,8 +2443,8 @@
       "holdType": "POCKET",
       "difficulty": 4.3,
       "pose": {
-        "x": 2.0,
-        "y": 8.5,
+        "x": 200.0,
+        "y": 850.0,
         "rotation": 0
       }
     },
@@ -2452,8 +2452,8 @@
       "holdType": "POCKET",
       "difficulty": 6.9,
       "pose": {
-        "x": 3.0,
-        "y": 8.5,
+        "x": 300.0,
+        "y": 850.0,
         "rotation": 22.5
       }
     },
@@ -2461,8 +2461,8 @@
       "holdType": "EDGE",
       "difficulty": 3.1,
       "pose": {
-        "x": 4.0,
-        "y": 8.5,
+        "x": 400.0,
+        "y": 850.0,
         "rotation": 180
       }
     },
@@ -2470,8 +2470,8 @@
       "holdType": "POCKET",
       "difficulty": 6.13,
       "pose": {
-        "x": 5.0,
-        "y": 8.5,
+        "x": 500.0,
+        "y": 850.0,
         "rotation": 247.5
       }
     },
@@ -2479,8 +2479,8 @@
       "holdType": "PINCH",
       "difficulty": 8.37,
       "pose": {
-        "x": 6.0,
-        "y": 8.5,
+        "x": 600.0,
+        "y": 850.0,
         "rotation": 157.5
       }
     },
@@ -2488,8 +2488,8 @@
       "holdType": "PINCH",
       "difficulty": 8.26,
       "pose": {
-        "x": 7.0,
-        "y": 8.5,
+        "x": 700.0,
+        "y": 850.0,
         "rotation": 225
       }
     },
@@ -2497,8 +2497,8 @@
       "holdType": "SLOPER",
       "difficulty": 5.94,
       "pose": {
-        "x": 8.0,
-        "y": 8.5,
+        "x": 800.0,
+        "y": 850.0,
         "rotation": 225
       }
     },
@@ -2506,8 +2506,8 @@
       "holdType": "SLOPER",
       "difficulty": 4.0,
       "pose": {
-        "x": 9.0,
-        "y": 8.5,
+        "x": 900.0,
+        "y": 850.0,
         "rotation": 22.5
       }
     },
@@ -2515,8 +2515,8 @@
       "holdType": "PINCH",
       "difficulty": 9.52,
       "pose": {
-        "x": 1.5,
-        "y": 8.5,
+        "x": 150.0,
+        "y": 850.0,
         "rotation": 292.5
       }
     },
@@ -2524,8 +2524,8 @@
       "holdType": "POCKET",
       "difficulty": 4.54,
       "pose": {
-        "x": 2.5,
-        "y": 8.5,
+        "x": 250.0,
+        "y": 850.0,
         "rotation": 67.5
       }
     },
@@ -2533,8 +2533,8 @@
       "holdType": "JUG",
       "difficulty": 9.26,
       "pose": {
-        "x": 3.5,
-        "y": 8.5,
+        "x": 350.0,
+        "y": 850.0,
         "rotation": 202.5
       }
     },
@@ -2542,8 +2542,8 @@
       "holdType": "CRIMP",
       "difficulty": 1.06,
       "pose": {
-        "x": 4.5,
-        "y": 8.5,
+        "x": 450.0,
+        "y": 850.0,
         "rotation": 315
       }
     },
@@ -2551,8 +2551,8 @@
       "holdType": "EDGE",
       "difficulty": 6.12,
       "pose": {
-        "x": 5.5,
-        "y": 8.5,
+        "x": 550.0,
+        "y": 850.0,
         "rotation": 337.5
       }
     },
@@ -2560,8 +2560,8 @@
       "holdType": "PINCH",
       "difficulty": 4.29,
       "pose": {
-        "x": 6.5,
-        "y": 8.5,
+        "x": 650.0,
+        "y": 850.0,
         "rotation": 180
       }
     },
@@ -2569,8 +2569,8 @@
       "holdType": "PINCH",
       "difficulty": 7.93,
       "pose": {
-        "x": 7.5,
-        "y": 8.5,
+        "x": 750.0,
+        "y": 850.0,
         "rotation": 157.5
       }
     },
@@ -2578,8 +2578,8 @@
       "holdType": "PINCH",
       "difficulty": 9.78,
       "pose": {
-        "x": 8.5,
-        "y": 8.5,
+        "x": 850.0,
+        "y": 850.0,
         "rotation": 202.5
       }
     },
@@ -2587,8 +2587,8 @@
       "holdType": "SLOPER",
       "difficulty": 3.1,
       "pose": {
-        "x": 9.5,
-        "y": 8.5,
+        "x": 950.0,
+        "y": 850.0,
         "rotation": 135
       }
     },
@@ -2596,8 +2596,8 @@
       "holdType": "CRIMP",
       "difficulty": 2.02,
       "pose": {
-        "x": 1.0,
-        "y": 9.0,
+        "x": 100.0,
+        "y": 900.0,
         "rotation": 270
       }
     },
@@ -2605,8 +2605,8 @@
       "holdType": "JUG",
       "difficulty": 6.38,
       "pose": {
-        "x": 2.0,
-        "y": 9.0,
+        "x": 200.0,
+        "y": 900.0,
         "rotation": 292.5
       }
     },
@@ -2614,8 +2614,8 @@
       "holdType": "PINCH",
       "difficulty": 5.2,
       "pose": {
-        "x": 3.0,
-        "y": 9.0,
+        "x": 300.0,
+        "y": 900.0,
         "rotation": 22.5
       }
     },
@@ -2623,8 +2623,8 @@
       "holdType": "JUG",
       "difficulty": 5.22,
       "pose": {
-        "x": 4.0,
-        "y": 9.0,
+        "x": 400.0,
+        "y": 900.0,
         "rotation": 45
       }
     },
@@ -2632,8 +2632,8 @@
       "holdType": "SLOPER",
       "difficulty": 5.88,
       "pose": {
-        "x": 5.0,
-        "y": 9.0,
+        "x": 500.0,
+        "y": 900.0,
         "rotation": 45
       }
     },
@@ -2641,8 +2641,8 @@
       "holdType": "EDGE",
       "difficulty": 6.82,
       "pose": {
-        "x": 6.0,
-        "y": 9.0,
+        "x": 600.0,
+        "y": 900.0,
         "rotation": 0
       }
     },
@@ -2650,8 +2650,8 @@
       "holdType": "CRIMP",
       "difficulty": 5.53,
       "pose": {
-        "x": 7.0,
-        "y": 9.0,
+        "x": 700.0,
+        "y": 900.0,
         "rotation": 112.5
       }
     },
@@ -2659,8 +2659,8 @@
       "holdType": "POCKET",
       "difficulty": 1.3,
       "pose": {
-        "x": 8.0,
-        "y": 9.0,
+        "x": 800.0,
+        "y": 900.0,
         "rotation": 337.5
       }
     },
@@ -2668,8 +2668,8 @@
       "holdType": "EDGE",
       "difficulty": 8.0,
       "pose": {
-        "x": 9.0,
-        "y": 9.0,
+        "x": 900.0,
+        "y": 900.0,
         "rotation": 135
       }
     },
@@ -2677,8 +2677,8 @@
       "holdType": "CRIMP",
       "difficulty": 6.13,
       "pose": {
-        "x": 1.5,
-        "y": 9.0,
+        "x": 150.0,
+        "y": 900.0,
         "rotation": 135
       }
     },
@@ -2686,8 +2686,8 @@
       "holdType": "SLOPER",
       "difficulty": 8.97,
       "pose": {
-        "x": 2.5,
-        "y": 9.0,
+        "x": 250.0,
+        "y": 900.0,
         "rotation": 22.5
       }
     },
@@ -2695,8 +2695,8 @@
       "holdType": "POCKET",
       "difficulty": 4.4,
       "pose": {
-        "x": 3.5,
-        "y": 9.0,
+        "x": 350.0,
+        "y": 900.0,
         "rotation": 157.5
       }
     },
@@ -2704,8 +2704,8 @@
       "holdType": "SLOPER",
       "difficulty": 6.38,
       "pose": {
-        "x": 4.5,
-        "y": 9.0,
+        "x": 450.0,
+        "y": 900.0,
         "rotation": 112.5
       }
     },
@@ -2713,8 +2713,8 @@
       "holdType": "PINCH",
       "difficulty": 3.26,
       "pose": {
-        "x": 5.5,
-        "y": 9.0,
+        "x": 550.0,
+        "y": 900.0,
         "rotation": 45
       }
     },
@@ -2722,8 +2722,8 @@
       "holdType": "EDGE",
       "difficulty": 2.93,
       "pose": {
-        "x": 6.5,
-        "y": 9.0,
+        "x": 650.0,
+        "y": 900.0,
         "rotation": 157.5
       }
     },
@@ -2731,8 +2731,8 @@
       "holdType": "EDGE",
       "difficulty": 2.89,
       "pose": {
-        "x": 7.5,
-        "y": 9.0,
+        "x": 750.0,
+        "y": 900.0,
         "rotation": 67.5
       }
     },
@@ -2740,8 +2740,8 @@
       "holdType": "CRIMP",
       "difficulty": 7.53,
       "pose": {
-        "x": 8.5,
-        "y": 9.0,
+        "x": 850.0,
+        "y": 900.0,
         "rotation": 247.5
       }
     },
@@ -2749,8 +2749,8 @@
       "holdType": "EDGE",
       "difficulty": 9.49,
       "pose": {
-        "x": 9.5,
-        "y": 9.0,
+        "x": 950.0,
+        "y": 900.0,
         "rotation": 292.5
       }
     },
@@ -2758,8 +2758,8 @@
       "holdType": "EDGE",
       "difficulty": 3.68,
       "pose": {
-        "x": 1.0,
-        "y": 9.5,
+        "x": 100.0,
+        "y": 950.0,
         "rotation": 315
       }
     },
@@ -2767,8 +2767,8 @@
       "holdType": "EDGE",
       "difficulty": 4.48,
       "pose": {
-        "x": 2.0,
-        "y": 9.5,
+        "x": 200.0,
+        "y": 950.0,
         "rotation": 157.5
       }
     },
@@ -2776,8 +2776,8 @@
       "holdType": "SLOPER",
       "difficulty": 2.94,
       "pose": {
-        "x": 3.0,
-        "y": 9.5,
+        "x": 300.0,
+        "y": 950.0,
         "rotation": 90
       }
     },
@@ -2785,8 +2785,8 @@
       "holdType": "PINCH",
       "difficulty": 5.45,
       "pose": {
-        "x": 4.0,
-        "y": 9.5,
+        "x": 400.0,
+        "y": 950.0,
         "rotation": 292.5
       }
     },
@@ -2794,8 +2794,8 @@
       "holdType": "POCKET",
       "difficulty": 3.84,
       "pose": {
-        "x": 5.0,
-        "y": 9.5,
+        "x": 500.0,
+        "y": 950.0,
         "rotation": 202.5
       }
     },
@@ -2803,8 +2803,8 @@
       "holdType": "POCKET",
       "difficulty": 8.37,
       "pose": {
-        "x": 6.0,
-        "y": 9.5,
+        "x": 600.0,
+        "y": 950.0,
         "rotation": 337.5
       }
     },
@@ -2812,8 +2812,8 @@
       "holdType": "EDGE",
       "difficulty": 7.36,
       "pose": {
-        "x": 7.0,
-        "y": 9.5,
+        "x": 700.0,
+        "y": 950.0,
         "rotation": 112.5
       }
     },
@@ -2821,8 +2821,8 @@
       "holdType": "POCKET",
       "difficulty": 2.69,
       "pose": {
-        "x": 8.0,
-        "y": 9.5,
+        "x": 800.0,
+        "y": 950.0,
         "rotation": 270
       }
     },
@@ -2830,8 +2830,8 @@
       "holdType": "SLOPER",
       "difficulty": 3.06,
       "pose": {
-        "x": 9.0,
-        "y": 9.5,
+        "x": 900.0,
+        "y": 950.0,
         "rotation": 157.5
       }
     },
@@ -2839,8 +2839,8 @@
       "holdType": "JUG",
       "difficulty": 5.73,
       "pose": {
-        "x": 1.5,
-        "y": 9.5,
+        "x": 150.0,
+        "y": 950.0,
         "rotation": 247.5
       }
     },
@@ -2848,8 +2848,8 @@
       "holdType": "PINCH",
       "difficulty": 7.14,
       "pose": {
-        "x": 2.5,
-        "y": 9.5,
+        "x": 250.0,
+        "y": 950.0,
         "rotation": 270
       }
     },
@@ -2857,8 +2857,8 @@
       "holdType": "JUG",
       "difficulty": 7.44,
       "pose": {
-        "x": 3.5,
-        "y": 9.5,
+        "x": 350.0,
+        "y": 950.0,
         "rotation": 22.5
       }
     },
@@ -2866,8 +2866,8 @@
       "holdType": "EDGE",
       "difficulty": 5.07,
       "pose": {
-        "x": 4.5,
-        "y": 9.5,
+        "x": 450.0,
+        "y": 950.0,
         "rotation": 315
       }
     },
@@ -2875,8 +2875,8 @@
       "holdType": "CRIMP",
       "difficulty": 5.58,
       "pose": {
-        "x": 5.5,
-        "y": 9.5,
+        "x": 550.0,
+        "y": 950.0,
         "rotation": 270
       }
     },
@@ -2884,8 +2884,8 @@
       "holdType": "EDGE",
       "difficulty": 2.77,
       "pose": {
-        "x": 6.5,
-        "y": 9.5,
+        "x": 650.0,
+        "y": 950.0,
         "rotation": 315
       }
     },
@@ -2893,8 +2893,8 @@
       "holdType": "EDGE",
       "difficulty": 8.84,
       "pose": {
-        "x": 7.5,
-        "y": 9.5,
+        "x": 750.0,
+        "y": 950.0,
         "rotation": 90
       }
     },
@@ -2902,8 +2902,8 @@
       "holdType": "PINCH",
       "difficulty": 8.32,
       "pose": {
-        "x": 8.5,
-        "y": 9.5,
+        "x": 850.0,
+        "y": 950.0,
         "rotation": 0
       }
     },
@@ -2911,8 +2911,8 @@
       "holdType": "POCKET",
       "difficulty": 3.33,
       "pose": {
-        "x": 9.5,
-        "y": 9.5,
+        "x": 950.0,
+        "y": 950.0,
         "rotation": 157.5
       }
     },
@@ -2920,8 +2920,8 @@
       "holdType": "EDGE",
       "difficulty": 1.83,
       "pose": {
-        "x": 1.0,
-        "y": 10.0,
+        "x": 100.0,
+        "y": 1000.0,
         "rotation": 135
       }
     },
@@ -2929,8 +2929,8 @@
       "holdType": "JUG",
       "difficulty": 5.89,
       "pose": {
-        "x": 2.0,
-        "y": 10.0,
+        "x": 200.0,
+        "y": 1000.0,
         "rotation": 180
       }
     },
@@ -2938,8 +2938,8 @@
       "holdType": "CRIMP",
       "difficulty": 3.38,
       "pose": {
-        "x": 3.0,
-        "y": 10.0,
+        "x": 300.0,
+        "y": 1000.0,
         "rotation": 202.5
       }
     },
@@ -2947,8 +2947,8 @@
       "holdType": "CRIMP",
       "difficulty": 2.81,
       "pose": {
-        "x": 4.0,
-        "y": 10.0,
+        "x": 400.0,
+        "y": 1000.0,
         "rotation": 180
       }
     },
@@ -2956,8 +2956,8 @@
       "holdType": "EDGE",
       "difficulty": 7.05,
       "pose": {
-        "x": 5.0,
-        "y": 10.0,
+        "x": 500.0,
+        "y": 1000.0,
         "rotation": 67.5
       }
     },
@@ -2965,8 +2965,8 @@
       "holdType": "POCKET",
       "difficulty": 8.94,
       "pose": {
-        "x": 6.0,
-        "y": 10.0,
+        "x": 600.0,
+        "y": 1000.0,
         "rotation": 180
       }
     },
@@ -2974,8 +2974,8 @@
       "holdType": "CRIMP",
       "difficulty": 8.53,
       "pose": {
-        "x": 7.0,
-        "y": 10.0,
+        "x": 700.0,
+        "y": 1000.0,
         "rotation": 292.5
       }
     },
@@ -2983,8 +2983,8 @@
       "holdType": "JUG",
       "difficulty": 5.51,
       "pose": {
-        "x": 8.0,
-        "y": 10.0,
+        "x": 800.0,
+        "y": 1000.0,
         "rotation": 180
       }
     },
@@ -2992,8 +2992,8 @@
       "holdType": "JUG",
       "difficulty": 3.29,
       "pose": {
-        "x": 9.0,
-        "y": 10.0,
+        "x": 900.0,
+        "y": 1000.0,
         "rotation": 67.5
       }
     },
@@ -3001,8 +3001,8 @@
       "holdType": "JUG",
       "difficulty": 6.32,
       "pose": {
-        "x": 1.5,
-        "y": 10.0,
+        "x": 150.0,
+        "y": 1000.0,
         "rotation": 292.5
       }
     },
@@ -3010,8 +3010,8 @@
       "holdType": "EDGE",
       "difficulty": 9.71,
       "pose": {
-        "x": 2.5,
-        "y": 10.0,
+        "x": 250.0,
+        "y": 1000.0,
         "rotation": 112.5
       }
     },
@@ -3019,8 +3019,8 @@
       "holdType": "POCKET",
       "difficulty": 6.85,
       "pose": {
-        "x": 3.5,
-        "y": 10.0,
+        "x": 350.0,
+        "y": 1000.0,
         "rotation": 22.5
       }
     },
@@ -3028,8 +3028,8 @@
       "holdType": "JUG",
       "difficulty": 6.5,
       "pose": {
-        "x": 4.5,
-        "y": 10.0,
+        "x": 450.0,
+        "y": 1000.0,
         "rotation": 247.5
       }
     },
@@ -3037,8 +3037,8 @@
       "holdType": "POCKET",
       "difficulty": 1.52,
       "pose": {
-        "x": 5.5,
-        "y": 10.0,
+        "x": 550.0,
+        "y": 1000.0,
         "rotation": 90
       }
     },
@@ -3046,8 +3046,8 @@
       "holdType": "CRIMP",
       "difficulty": 8.18,
       "pose": {
-        "x": 6.5,
-        "y": 10.0,
+        "x": 650.0,
+        "y": 1000.0,
         "rotation": 337.5
       }
     },
@@ -3055,8 +3055,8 @@
       "holdType": "POCKET",
       "difficulty": 6.21,
       "pose": {
-        "x": 7.5,
-        "y": 10.0,
+        "x": 750.0,
+        "y": 1000.0,
         "rotation": 337.5
       }
     },
@@ -3064,8 +3064,8 @@
       "holdType": "CRIMP",
       "difficulty": 1.49,
       "pose": {
-        "x": 8.5,
-        "y": 10.0,
+        "x": 850.0,
+        "y": 1000.0,
         "rotation": 67.5
       }
     },
@@ -3073,8 +3073,8 @@
       "holdType": "EDGE",
       "difficulty": 9.77,
       "pose": {
-        "x": 9.5,
-        "y": 10.0,
+        "x": 950.0,
+        "y": 1000.0,
         "rotation": 337.5
       }
     },
@@ -3082,8 +3082,8 @@
       "holdType": "EDGE",
       "difficulty": 2.36,
       "pose": {
-        "x": 1.0,
-        "y": 10.5,
+        "x": 100.0,
+        "y": 1050.0,
         "rotation": 135
       }
     },
@@ -3091,8 +3091,8 @@
       "holdType": "CRIMP",
       "difficulty": 1.79,
       "pose": {
-        "x": 2.0,
-        "y": 10.5,
+        "x": 200.0,
+        "y": 1050.0,
         "rotation": 22.5
       }
     },
@@ -3100,8 +3100,8 @@
       "holdType": "JUG",
       "difficulty": 8.57,
       "pose": {
-        "x": 3.0,
-        "y": 10.5,
+        "x": 300.0,
+        "y": 1050.0,
         "rotation": 0
       }
     },
@@ -3109,8 +3109,8 @@
       "holdType": "SLOPER",
       "difficulty": 6.3,
       "pose": {
-        "x": 4.0,
-        "y": 10.5,
+        "x": 400.0,
+        "y": 1050.0,
         "rotation": 90
       }
     },
@@ -3118,8 +3118,8 @@
       "holdType": "EDGE",
       "difficulty": 9.6,
       "pose": {
-        "x": 5.0,
-        "y": 10.5,
+        "x": 500.0,
+        "y": 1050.0,
         "rotation": 180
       }
     },
@@ -3127,8 +3127,8 @@
       "holdType": "PINCH",
       "difficulty": 4.35,
       "pose": {
-        "x": 6.0,
-        "y": 10.5,
+        "x": 600.0,
+        "y": 1050.0,
         "rotation": 90
       }
     },
@@ -3136,8 +3136,8 @@
       "holdType": "JUG",
       "difficulty": 7.95,
       "pose": {
-        "x": 7.0,
-        "y": 10.5,
+        "x": 700.0,
+        "y": 1050.0,
         "rotation": 315
       }
     },
@@ -3145,8 +3145,8 @@
       "holdType": "JUG",
       "difficulty": 1.58,
       "pose": {
-        "x": 8.0,
-        "y": 10.5,
+        "x": 800.0,
+        "y": 1050.0,
         "rotation": 135
       }
     },
@@ -3154,8 +3154,8 @@
       "holdType": "CRIMP",
       "difficulty": 6.28,
       "pose": {
-        "x": 9.0,
-        "y": 10.5,
+        "x": 900.0,
+        "y": 1050.0,
         "rotation": 45
       }
     },
@@ -3163,8 +3163,8 @@
       "holdType": "POCKET",
       "difficulty": 6.01,
       "pose": {
-        "x": 1.5,
-        "y": 10.5,
+        "x": 150.0,
+        "y": 1050.0,
         "rotation": 180
       }
     },
@@ -3172,8 +3172,8 @@
       "holdType": "SLOPER",
       "difficulty": 6.52,
       "pose": {
-        "x": 2.5,
-        "y": 10.5,
+        "x": 250.0,
+        "y": 1050.0,
         "rotation": 22.5
       }
     },
@@ -3181,8 +3181,8 @@
       "holdType": "CRIMP",
       "difficulty": 9.59,
       "pose": {
-        "x": 3.5,
-        "y": 10.5,
+        "x": 350.0,
+        "y": 1050.0,
         "rotation": 337.5
       }
     },
@@ -3190,8 +3190,8 @@
       "holdType": "JUG",
       "difficulty": 6.88,
       "pose": {
-        "x": 4.5,
-        "y": 10.5,
+        "x": 450.0,
+        "y": 1050.0,
         "rotation": 247.5
       }
     },
@@ -3199,8 +3199,8 @@
       "holdType": "POCKET",
       "difficulty": 9.71,
       "pose": {
-        "x": 5.5,
-        "y": 10.5,
+        "x": 550.0,
+        "y": 1050.0,
         "rotation": 315
       }
     },
@@ -3208,8 +3208,8 @@
       "holdType": "CRIMP",
       "difficulty": 1.05,
       "pose": {
-        "x": 6.5,
-        "y": 10.5,
+        "x": 650.0,
+        "y": 1050.0,
         "rotation": 180
       }
     },
@@ -3217,8 +3217,8 @@
       "holdType": "CRIMP",
       "difficulty": 3.32,
       "pose": {
-        "x": 7.5,
-        "y": 10.5,
+        "x": 750.0,
+        "y": 1050.0,
         "rotation": 247.5
       }
     },
@@ -3226,8 +3226,8 @@
       "holdType": "JUG",
       "difficulty": 3.42,
       "pose": {
-        "x": 8.5,
-        "y": 10.5,
+        "x": 850.0,
+        "y": 1050.0,
         "rotation": 112.5
       }
     },
@@ -3235,8 +3235,8 @@
       "holdType": "PINCH",
       "difficulty": 9.93,
       "pose": {
-        "x": 9.5,
-        "y": 10.5,
+        "x": 950.0,
+        "y": 1050.0,
         "rotation": 315
       }
     },
@@ -3244,8 +3244,8 @@
       "holdType": "EDGE",
       "difficulty": 3.94,
       "pose": {
-        "x": 1.0,
-        "y": 11.0,
+        "x": 100.0,
+        "y": 1100.0,
         "rotation": 270
       }
     },
@@ -3253,8 +3253,8 @@
       "holdType": "JUG",
       "difficulty": 2.52,
       "pose": {
-        "x": 2.0,
-        "y": 11.0,
+        "x": 200.0,
+        "y": 1100.0,
         "rotation": 90
       }
     },
@@ -3262,8 +3262,8 @@
       "holdType": "EDGE",
       "difficulty": 4.2,
       "pose": {
-        "x": 3.0,
-        "y": 11.0,
+        "x": 300.0,
+        "y": 1100.0,
         "rotation": 247.5
       }
     },
@@ -3271,8 +3271,8 @@
       "holdType": "CRIMP",
       "difficulty": 9.04,
       "pose": {
-        "x": 4.0,
-        "y": 11.0,
+        "x": 400.0,
+        "y": 1100.0,
         "rotation": 135
       }
     },
@@ -3280,8 +3280,8 @@
       "holdType": "SLOPER",
       "difficulty": 2.42,
       "pose": {
-        "x": 5.0,
-        "y": 11.0,
+        "x": 500.0,
+        "y": 1100.0,
         "rotation": 157.5
       }
     },
@@ -3289,8 +3289,8 @@
       "holdType": "PINCH",
       "difficulty": 2.4,
       "pose": {
-        "x": 6.0,
-        "y": 11.0,
+        "x": 600.0,
+        "y": 1100.0,
         "rotation": 337.5
       }
     },
@@ -3298,8 +3298,8 @@
       "holdType": "CRIMP",
       "difficulty": 2.67,
       "pose": {
-        "x": 7.0,
-        "y": 11.0,
+        "x": 700.0,
+        "y": 1100.0,
         "rotation": 180
       }
     },
@@ -3307,8 +3307,8 @@
       "holdType": "SLOPER",
       "difficulty": 4.57,
       "pose": {
-        "x": 8.0,
-        "y": 11.0,
+        "x": 800.0,
+        "y": 1100.0,
         "rotation": 202.5
       }
     },
@@ -3316,8 +3316,8 @@
       "holdType": "EDGE",
       "difficulty": 3.0,
       "pose": {
-        "x": 9.0,
-        "y": 11.0,
+        "x": 900.0,
+        "y": 1100.0,
         "rotation": 22.5
       }
     },
@@ -3325,8 +3325,8 @@
       "holdType": "EDGE",
       "difficulty": 8.54,
       "pose": {
-        "x": 1.5,
-        "y": 11.0,
+        "x": 150.0,
+        "y": 1100.0,
         "rotation": 247.5
       }
     },
@@ -3334,8 +3334,8 @@
       "holdType": "EDGE",
       "difficulty": 2.09,
       "pose": {
-        "x": 2.5,
-        "y": 11.0,
+        "x": 250.0,
+        "y": 1100.0,
         "rotation": 0
       }
     },
@@ -3343,8 +3343,8 @@
       "holdType": "SLOPER",
       "difficulty": 1.93,
       "pose": {
-        "x": 3.5,
-        "y": 11.0,
+        "x": 350.0,
+        "y": 1100.0,
         "rotation": 180
       }
     },
@@ -3352,8 +3352,8 @@
       "holdType": "SLOPER",
       "difficulty": 2.78,
       "pose": {
-        "x": 4.5,
-        "y": 11.0,
+        "x": 450.0,
+        "y": 1100.0,
         "rotation": 90
       }
     },
@@ -3361,8 +3361,8 @@
       "holdType": "PINCH",
       "difficulty": 5.12,
       "pose": {
-        "x": 5.5,
-        "y": 11.0,
+        "x": 550.0,
+        "y": 1100.0,
         "rotation": 315
       }
     },
@@ -3370,8 +3370,8 @@
       "holdType": "EDGE",
       "difficulty": 1.02,
       "pose": {
-        "x": 6.5,
-        "y": 11.0,
+        "x": 650.0,
+        "y": 1100.0,
         "rotation": 45
       }
     },
@@ -3379,8 +3379,8 @@
       "holdType": "PINCH",
       "difficulty": 9.37,
       "pose": {
-        "x": 7.5,
-        "y": 11.0,
+        "x": 750.0,
+        "y": 1100.0,
         "rotation": 45
       }
     },
@@ -3388,8 +3388,8 @@
       "holdType": "PINCH",
       "difficulty": 8.64,
       "pose": {
-        "x": 8.5,
-        "y": 11.0,
+        "x": 850.0,
+        "y": 1100.0,
         "rotation": 247.5
       }
     },
@@ -3397,8 +3397,8 @@
       "holdType": "CRIMP",
       "difficulty": 7.15,
       "pose": {
-        "x": 9.5,
-        "y": 11.0,
+        "x": 950.0,
+        "y": 1100.0,
         "rotation": 337.5
       }
     },
@@ -3406,8 +3406,8 @@
       "holdType": "JUG",
       "difficulty": 5.39,
       "pose": {
-        "x": 1.0,
-        "y": 11.5,
+        "x": 100.0,
+        "y": 1150.0,
         "rotation": 247.5
       }
     },
@@ -3415,8 +3415,8 @@
       "holdType": "EDGE",
       "difficulty": 2.21,
       "pose": {
-        "x": 2.0,
-        "y": 11.5,
+        "x": 200.0,
+        "y": 1150.0,
         "rotation": 22.5
       }
     },
@@ -3424,8 +3424,8 @@
       "holdType": "EDGE",
       "difficulty": 5.23,
       "pose": {
-        "x": 3.0,
-        "y": 11.5,
+        "x": 300.0,
+        "y": 1150.0,
         "rotation": 202.5
       }
     },
@@ -3433,8 +3433,8 @@
       "holdType": "CRIMP",
       "difficulty": 7.19,
       "pose": {
-        "x": 4.0,
-        "y": 11.5,
+        "x": 400.0,
+        "y": 1150.0,
         "rotation": 247.5
       }
     },
@@ -3442,8 +3442,8 @@
       "holdType": "PINCH",
       "difficulty": 7.34,
       "pose": {
-        "x": 5.0,
-        "y": 11.5,
+        "x": 500.0,
+        "y": 1150.0,
         "rotation": 247.5
       }
     },
@@ -3451,8 +3451,8 @@
       "holdType": "SLOPER",
       "difficulty": 4.05,
       "pose": {
-        "x": 6.0,
-        "y": 11.5,
+        "x": 600.0,
+        "y": 1150.0,
         "rotation": 0
       }
     },
@@ -3460,8 +3460,8 @@
       "holdType": "SLOPER",
       "difficulty": 6.48,
       "pose": {
-        "x": 7.0,
-        "y": 11.5,
+        "x": 700.0,
+        "y": 1150.0,
         "rotation": 225
       }
     },
@@ -3469,8 +3469,8 @@
       "holdType": "CRIMP",
       "difficulty": 7.99,
       "pose": {
-        "x": 8.0,
-        "y": 11.5,
+        "x": 800.0,
+        "y": 1150.0,
         "rotation": 202.5
       }
     },
@@ -3478,8 +3478,8 @@
       "holdType": "EDGE",
       "difficulty": 7.81,
       "pose": {
-        "x": 9.0,
-        "y": 11.5,
+        "x": 900.0,
+        "y": 1150.0,
         "rotation": 90
       }
     },
@@ -3487,8 +3487,8 @@
       "holdType": "JUG",
       "difficulty": 8.42,
       "pose": {
-        "x": 1.5,
-        "y": 11.5,
+        "x": 150.0,
+        "y": 1150.0,
         "rotation": 45
       }
     },
@@ -3496,8 +3496,8 @@
       "holdType": "JUG",
       "difficulty": 4.44,
       "pose": {
-        "x": 2.5,
-        "y": 11.5,
+        "x": 250.0,
+        "y": 1150.0,
         "rotation": 112.5
       }
     },
@@ -3505,8 +3505,8 @@
       "holdType": "SLOPER",
       "difficulty": 1.1,
       "pose": {
-        "x": 3.5,
-        "y": 11.5,
+        "x": 350.0,
+        "y": 1150.0,
         "rotation": 45
       }
     },
@@ -3514,8 +3514,8 @@
       "holdType": "JUG",
       "difficulty": 2.32,
       "pose": {
-        "x": 4.5,
-        "y": 11.5,
+        "x": 450.0,
+        "y": 1150.0,
         "rotation": 45
       }
     },
@@ -3523,8 +3523,8 @@
       "holdType": "JUG",
       "difficulty": 7.48,
       "pose": {
-        "x": 5.5,
-        "y": 11.5,
+        "x": 550.0,
+        "y": 1150.0,
         "rotation": 247.5
       }
     },
@@ -3532,8 +3532,8 @@
       "holdType": "EDGE",
       "difficulty": 1.59,
       "pose": {
-        "x": 6.5,
-        "y": 11.5,
+        "x": 650.0,
+        "y": 1150.0,
         "rotation": 247.5
       }
     },
@@ -3541,8 +3541,8 @@
       "holdType": "CRIMP",
       "difficulty": 4.24,
       "pose": {
-        "x": 7.5,
-        "y": 11.5,
+        "x": 750.0,
+        "y": 1150.0,
         "rotation": 180
       }
     },
@@ -3550,8 +3550,8 @@
       "holdType": "EDGE",
       "difficulty": 9.18,
       "pose": {
-        "x": 8.5,
-        "y": 11.5,
+        "x": 850.0,
+        "y": 1150.0,
         "rotation": 180
       }
     },
@@ -3559,8 +3559,8 @@
       "holdType": "POCKET",
       "difficulty": 7.26,
       "pose": {
-        "x": 9.5,
-        "y": 11.5,
+        "x": 950.0,
+        "y": 1150.0,
         "rotation": 90
       }
     },
@@ -3568,8 +3568,8 @@
       "holdType": "PINCH",
       "difficulty": 5.53,
       "pose": {
-        "x": 1.0,
-        "y": 12.0,
+        "x": 100.0,
+        "y": 1200.0,
         "rotation": 157.5
       }
     },
@@ -3577,8 +3577,8 @@
       "holdType": "SLOPER",
       "difficulty": 8.53,
       "pose": {
-        "x": 2.0,
-        "y": 12.0,
+        "x": 200.0,
+        "y": 1200.0,
         "rotation": 0
       }
     },
@@ -3586,8 +3586,8 @@
       "holdType": "POCKET",
       "difficulty": 7.99,
       "pose": {
-        "x": 3.0,
-        "y": 12.0,
+        "x": 300.0,
+        "y": 1200.0,
         "rotation": 90
       }
     },
@@ -3595,8 +3595,8 @@
       "holdType": "SLOPER",
       "difficulty": 1.6,
       "pose": {
-        "x": 4.0,
-        "y": 12.0,
+        "x": 400.0,
+        "y": 1200.0,
         "rotation": 202.5
       }
     },
@@ -3604,8 +3604,8 @@
       "holdType": "CRIMP",
       "difficulty": 8.46,
       "pose": {
-        "x": 5.0,
-        "y": 12.0,
+        "x": 500.0,
+        "y": 1200.0,
         "rotation": 202.5
       }
     },
@@ -3613,8 +3613,8 @@
       "holdType": "POCKET",
       "difficulty": 7.78,
       "pose": {
-        "x": 6.0,
-        "y": 12.0,
+        "x": 600.0,
+        "y": 1200.0,
         "rotation": 337.5
       }
     },
@@ -3622,8 +3622,8 @@
       "holdType": "SLOPER",
       "difficulty": 7.97,
       "pose": {
-        "x": 7.0,
-        "y": 12.0,
+        "x": 700.0,
+        "y": 1200.0,
         "rotation": 225
       }
     },
@@ -3631,8 +3631,8 @@
       "holdType": "POCKET",
       "difficulty": 8.27,
       "pose": {
-        "x": 8.0,
-        "y": 12.0,
+        "x": 800.0,
+        "y": 1200.0,
         "rotation": 202.5
       }
     },
@@ -3640,8 +3640,8 @@
       "holdType": "PINCH",
       "difficulty": 7.67,
       "pose": {
-        "x": 9.0,
-        "y": 12.0,
+        "x": 900.0,
+        "y": 1200.0,
         "rotation": 22.5
       }
     },
@@ -3649,8 +3649,8 @@
       "holdType": "SLOPER",
       "difficulty": 4.5,
       "pose": {
-        "x": 1.5,
-        "y": 12.0,
+        "x": 150.0,
+        "y": 1200.0,
         "rotation": 180
       }
     },
@@ -3658,8 +3658,8 @@
       "holdType": "CRIMP",
       "difficulty": 7.19,
       "pose": {
-        "x": 2.5,
-        "y": 12.0,
+        "x": 250.0,
+        "y": 1200.0,
         "rotation": 315
       }
     },
@@ -3667,8 +3667,8 @@
       "holdType": "JUG",
       "difficulty": 2.97,
       "pose": {
-        "x": 3.5,
-        "y": 12.0,
+        "x": 350.0,
+        "y": 1200.0,
         "rotation": 337.5
       }
     },
@@ -3676,8 +3676,8 @@
       "holdType": "CRIMP",
       "difficulty": 4.95,
       "pose": {
-        "x": 4.5,
-        "y": 12.0,
+        "x": 450.0,
+        "y": 1200.0,
         "rotation": 247.5
       }
     },
@@ -3685,8 +3685,8 @@
       "holdType": "SLOPER",
       "difficulty": 3.67,
       "pose": {
-        "x": 5.5,
-        "y": 12.0,
+        "x": 550.0,
+        "y": 1200.0,
         "rotation": 157.5
       }
     },
@@ -3694,8 +3694,8 @@
       "holdType": "JUG",
       "difficulty": 5.4,
       "pose": {
-        "x": 6.5,
-        "y": 12.0,
+        "x": 650.0,
+        "y": 1200.0,
         "rotation": 90
       }
     },
@@ -3703,8 +3703,8 @@
       "holdType": "CRIMP",
       "difficulty": 4.44,
       "pose": {
-        "x": 7.5,
-        "y": 12.0,
+        "x": 750.0,
+        "y": 1200.0,
         "rotation": 22.5
       }
     },
@@ -3712,8 +3712,8 @@
       "holdType": "PINCH",
       "difficulty": 4.01,
       "pose": {
-        "x": 8.5,
-        "y": 12.0,
+        "x": 850.0,
+        "y": 1200.0,
         "rotation": 157.5
       }
     },
@@ -3721,8 +3721,8 @@
       "holdType": "SLOPER",
       "difficulty": 2.52,
       "pose": {
-        "x": 9.5,
-        "y": 12.0,
+        "x": 950.0,
+        "y": 1200.0,
         "rotation": 225
       }
     },
@@ -3730,8 +3730,8 @@
       "holdType": "POCKET",
       "difficulty": 8.89,
       "pose": {
-        "x": 1.0,
-        "y": 12.5,
+        "x": 100.0,
+        "y": 1250.0,
         "rotation": 45
       }
     },
@@ -3739,8 +3739,8 @@
       "holdType": "CRIMP",
       "difficulty": 7.2,
       "pose": {
-        "x": 2.0,
-        "y": 12.5,
+        "x": 200.0,
+        "y": 1250.0,
         "rotation": 315
       }
     },
@@ -3748,8 +3748,8 @@
       "holdType": "EDGE",
       "difficulty": 6.11,
       "pose": {
-        "x": 3.0,
-        "y": 12.5,
+        "x": 300.0,
+        "y": 1250.0,
         "rotation": 292.5
       }
     },
@@ -3757,8 +3757,8 @@
       "holdType": "JUG",
       "difficulty": 5.86,
       "pose": {
-        "x": 4.0,
-        "y": 12.5,
+        "x": 400.0,
+        "y": 1250.0,
         "rotation": 112.5
       }
     },
@@ -3766,8 +3766,8 @@
       "holdType": "JUG",
       "difficulty": 9.96,
       "pose": {
-        "x": 5.0,
-        "y": 12.5,
+        "x": 500.0,
+        "y": 1250.0,
         "rotation": 157.5
       }
     },
@@ -3775,8 +3775,8 @@
       "holdType": "SLOPER",
       "difficulty": 5.29,
       "pose": {
-        "x": 6.0,
-        "y": 12.5,
+        "x": 600.0,
+        "y": 1250.0,
         "rotation": 270
       }
     },
@@ -3784,8 +3784,8 @@
       "holdType": "SLOPER",
       "difficulty": 5.93,
       "pose": {
-        "x": 7.0,
-        "y": 12.5,
+        "x": 700.0,
+        "y": 1250.0,
         "rotation": 90
       }
     },
@@ -3793,8 +3793,8 @@
       "holdType": "CRIMP",
       "difficulty": 1.47,
       "pose": {
-        "x": 8.0,
-        "y": 12.5,
+        "x": 800.0,
+        "y": 1250.0,
         "rotation": 180
       }
     },
@@ -3802,8 +3802,8 @@
       "holdType": "POCKET",
       "difficulty": 6.04,
       "pose": {
-        "x": 9.0,
-        "y": 12.5,
+        "x": 900.0,
+        "y": 1250.0,
         "rotation": 45
       }
     },
@@ -3811,8 +3811,8 @@
       "holdType": "JUG",
       "difficulty": 7.54,
       "pose": {
-        "x": 1.5,
-        "y": 12.5,
+        "x": 150.0,
+        "y": 1250.0,
         "rotation": 112.5
       }
     },
@@ -3820,8 +3820,8 @@
       "holdType": "POCKET",
       "difficulty": 2.21,
       "pose": {
-        "x": 2.5,
-        "y": 12.5,
+        "x": 250.0,
+        "y": 1250.0,
         "rotation": 270
       }
     },
@@ -3829,8 +3829,8 @@
       "holdType": "PINCH",
       "difficulty": 8.27,
       "pose": {
-        "x": 3.5,
-        "y": 12.5,
+        "x": 350.0,
+        "y": 1250.0,
         "rotation": 45
       }
     },
@@ -3838,8 +3838,8 @@
       "holdType": "CRIMP",
       "difficulty": 9.77,
       "pose": {
-        "x": 4.5,
-        "y": 12.5,
+        "x": 450.0,
+        "y": 1250.0,
         "rotation": 270
       }
     },
@@ -3847,8 +3847,8 @@
       "holdType": "CRIMP",
       "difficulty": 9.72,
       "pose": {
-        "x": 5.5,
-        "y": 12.5,
+        "x": 550.0,
+        "y": 1250.0,
         "rotation": 180
       }
     },
@@ -3856,8 +3856,8 @@
       "holdType": "EDGE",
       "difficulty": 7.62,
       "pose": {
-        "x": 6.5,
-        "y": 12.5,
+        "x": 650.0,
+        "y": 1250.0,
         "rotation": 90
       }
     },
@@ -3865,8 +3865,8 @@
       "holdType": "POCKET",
       "difficulty": 8.32,
       "pose": {
-        "x": 7.5,
-        "y": 12.5,
+        "x": 750.0,
+        "y": 1250.0,
         "rotation": 292.5
       }
     },
@@ -3874,8 +3874,8 @@
       "holdType": "EDGE",
       "difficulty": 3.04,
       "pose": {
-        "x": 8.5,
-        "y": 12.5,
+        "x": 850.0,
+        "y": 1250.0,
         "rotation": 270
       }
     },
@@ -3883,8 +3883,8 @@
       "holdType": "POCKET",
       "difficulty": 2.77,
       "pose": {
-        "x": 9.5,
-        "y": 12.5,
+        "x": 950.0,
+        "y": 1250.0,
         "rotation": 225
       }
     },
@@ -3892,8 +3892,8 @@
       "holdType": "EDGE",
       "difficulty": 5.35,
       "pose": {
-        "x": 1.0,
-        "y": 13.0,
+        "x": 100.0,
+        "y": 1300.0,
         "rotation": 315
       }
     },
@@ -3901,8 +3901,8 @@
       "holdType": "PINCH",
       "difficulty": 3.44,
       "pose": {
-        "x": 2.0,
-        "y": 13.0,
+        "x": 200.0,
+        "y": 1300.0,
         "rotation": 180
       }
     },
@@ -3910,8 +3910,8 @@
       "holdType": "SLOPER",
       "difficulty": 4.22,
       "pose": {
-        "x": 3.0,
-        "y": 13.0,
+        "x": 300.0,
+        "y": 1300.0,
         "rotation": 45
       }
     },
@@ -3919,8 +3919,8 @@
       "holdType": "POCKET",
       "difficulty": 2.21,
       "pose": {
-        "x": 4.0,
-        "y": 13.0,
+        "x": 400.0,
+        "y": 1300.0,
         "rotation": 157.5
       }
     },
@@ -3928,8 +3928,8 @@
       "holdType": "POCKET",
       "difficulty": 9.74,
       "pose": {
-        "x": 5.0,
-        "y": 13.0,
+        "x": 500.0,
+        "y": 1300.0,
         "rotation": 22.5
       }
     },
@@ -3937,8 +3937,8 @@
       "holdType": "SLOPER",
       "difficulty": 4.01,
       "pose": {
-        "x": 6.0,
-        "y": 13.0,
+        "x": 600.0,
+        "y": 1300.0,
         "rotation": 135
       }
     },
@@ -3946,8 +3946,8 @@
       "holdType": "POCKET",
       "difficulty": 8.39,
       "pose": {
-        "x": 7.0,
-        "y": 13.0,
+        "x": 700.0,
+        "y": 1300.0,
         "rotation": 225
       }
     },
@@ -3955,8 +3955,8 @@
       "holdType": "EDGE",
       "difficulty": 2.82,
       "pose": {
-        "x": 8.0,
-        "y": 13.0,
+        "x": 800.0,
+        "y": 1300.0,
         "rotation": 67.5
       }
     },
@@ -3964,8 +3964,8 @@
       "holdType": "EDGE",
       "difficulty": 5.81,
       "pose": {
-        "x": 9.0,
-        "y": 13.0,
+        "x": 900.0,
+        "y": 1300.0,
         "rotation": 180
       }
     },
@@ -3973,8 +3973,8 @@
       "holdType": "SLOPER",
       "difficulty": 2.43,
       "pose": {
-        "x": 1.5,
-        "y": 13.0,
+        "x": 150.0,
+        "y": 1300.0,
         "rotation": 247.5
       }
     },
@@ -3982,8 +3982,8 @@
       "holdType": "EDGE",
       "difficulty": 9.35,
       "pose": {
-        "x": 2.5,
-        "y": 13.0,
+        "x": 250.0,
+        "y": 1300.0,
         "rotation": 90
       }
     },
@@ -3991,8 +3991,8 @@
       "holdType": "CRIMP",
       "difficulty": 9.0,
       "pose": {
-        "x": 3.5,
-        "y": 13.0,
+        "x": 350.0,
+        "y": 1300.0,
         "rotation": 135
       }
     },
@@ -4000,8 +4000,8 @@
       "holdType": "POCKET",
       "difficulty": 4.28,
       "pose": {
-        "x": 4.5,
-        "y": 13.0,
+        "x": 450.0,
+        "y": 1300.0,
         "rotation": 112.5
       }
     },
@@ -4009,8 +4009,8 @@
       "holdType": "JUG",
       "difficulty": 2.6,
       "pose": {
-        "x": 5.5,
-        "y": 13.0,
+        "x": 550.0,
+        "y": 1300.0,
         "rotation": 315
       }
     },
@@ -4018,8 +4018,8 @@
       "holdType": "POCKET",
       "difficulty": 5.84,
       "pose": {
-        "x": 6.5,
-        "y": 13.0,
+        "x": 650.0,
+        "y": 1300.0,
         "rotation": 225
       }
     },
@@ -4027,8 +4027,8 @@
       "holdType": "SLOPER",
       "difficulty": 3.81,
       "pose": {
-        "x": 7.5,
-        "y": 13.0,
+        "x": 750.0,
+        "y": 1300.0,
         "rotation": 225
       }
     },
@@ -4036,8 +4036,8 @@
       "holdType": "PINCH",
       "difficulty": 4.22,
       "pose": {
-        "x": 8.5,
-        "y": 13.0,
+        "x": 850.0,
+        "y": 1300.0,
         "rotation": 247.5
       }
     },
@@ -4045,8 +4045,8 @@
       "holdType": "CRIMP",
       "difficulty": 5.13,
       "pose": {
-        "x": 9.5,
-        "y": 13.0,
+        "x": 950.0,
+        "y": 1300.0,
         "rotation": 270
       }
     },
@@ -4054,8 +4054,8 @@
       "holdType": "CRIMP",
       "difficulty": 2.06,
       "pose": {
-        "x": 1.0,
-        "y": 13.5,
+        "x": 100.0,
+        "y": 1350.0,
         "rotation": 112.5
       }
     },
@@ -4063,8 +4063,8 @@
       "holdType": "POCKET",
       "difficulty": 4.38,
       "pose": {
-        "x": 2.0,
-        "y": 13.5,
+        "x": 200.0,
+        "y": 1350.0,
         "rotation": 247.5
       }
     },
@@ -4072,8 +4072,8 @@
       "holdType": "SLOPER",
       "difficulty": 1.77,
       "pose": {
-        "x": 3.0,
-        "y": 13.5,
+        "x": 300.0,
+        "y": 1350.0,
         "rotation": 0
       }
     },
@@ -4081,8 +4081,8 @@
       "holdType": "CRIMP",
       "difficulty": 5.82,
       "pose": {
-        "x": 4.0,
-        "y": 13.5,
+        "x": 400.0,
+        "y": 1350.0,
         "rotation": 247.5
       }
     },
@@ -4090,8 +4090,8 @@
       "holdType": "CRIMP",
       "difficulty": 8.09,
       "pose": {
-        "x": 5.0,
-        "y": 13.5,
+        "x": 500.0,
+        "y": 1350.0,
         "rotation": 270
       }
     },
@@ -4099,8 +4099,8 @@
       "holdType": "CRIMP",
       "difficulty": 3.22,
       "pose": {
-        "x": 6.0,
-        "y": 13.5,
+        "x": 600.0,
+        "y": 1350.0,
         "rotation": 315
       }
     },
@@ -4108,8 +4108,8 @@
       "holdType": "PINCH",
       "difficulty": 7.16,
       "pose": {
-        "x": 7.0,
-        "y": 13.5,
+        "x": 700.0,
+        "y": 1350.0,
         "rotation": 22.5
       }
     },
@@ -4117,8 +4117,8 @@
       "holdType": "JUG",
       "difficulty": 2.15,
       "pose": {
-        "x": 8.0,
-        "y": 13.5,
+        "x": 800.0,
+        "y": 1350.0,
         "rotation": 247.5
       }
     },
@@ -4126,8 +4126,8 @@
       "holdType": "JUG",
       "difficulty": 3.73,
       "pose": {
-        "x": 9.0,
-        "y": 13.5,
+        "x": 900.0,
+        "y": 1350.0,
         "rotation": 157.5
       }
     },
@@ -4135,8 +4135,8 @@
       "holdType": "SLOPER",
       "difficulty": 3.97,
       "pose": {
-        "x": 1.5,
-        "y": 13.5,
+        "x": 150.0,
+        "y": 1350.0,
         "rotation": 180
       }
     },
@@ -4144,8 +4144,8 @@
       "holdType": "POCKET",
       "difficulty": 4.39,
       "pose": {
-        "x": 2.5,
-        "y": 13.5,
+        "x": 250.0,
+        "y": 1350.0,
         "rotation": 270
       }
     },
@@ -4153,8 +4153,8 @@
       "holdType": "SLOPER",
       "difficulty": 9.43,
       "pose": {
-        "x": 3.5,
-        "y": 13.5,
+        "x": 350.0,
+        "y": 1350.0,
         "rotation": 202.5
       }
     },
@@ -4162,8 +4162,8 @@
       "holdType": "PINCH",
       "difficulty": 9.09,
       "pose": {
-        "x": 4.5,
-        "y": 13.5,
+        "x": 450.0,
+        "y": 1350.0,
         "rotation": 112.5
       }
     },
@@ -4171,8 +4171,8 @@
       "holdType": "JUG",
       "difficulty": 8.49,
       "pose": {
-        "x": 5.5,
-        "y": 13.5,
+        "x": 550.0,
+        "y": 1350.0,
         "rotation": 315
       }
     },
@@ -4180,8 +4180,8 @@
       "holdType": "SLOPER",
       "difficulty": 3.47,
       "pose": {
-        "x": 6.5,
-        "y": 13.5,
+        "x": 650.0,
+        "y": 1350.0,
         "rotation": 337.5
       }
     },
@@ -4189,8 +4189,8 @@
       "holdType": "CRIMP",
       "difficulty": 7.03,
       "pose": {
-        "x": 7.5,
-        "y": 13.5,
+        "x": 750.0,
+        "y": 1350.0,
         "rotation": 180
       }
     },
@@ -4198,8 +4198,8 @@
       "holdType": "POCKET",
       "difficulty": 8.12,
       "pose": {
-        "x": 8.5,
-        "y": 13.5,
+        "x": 850.0,
+        "y": 1350.0,
         "rotation": 67.5
       }
     },
@@ -4207,8 +4207,8 @@
       "holdType": "POCKET",
       "difficulty": 5.96,
       "pose": {
-        "x": 9.5,
-        "y": 13.5,
+        "x": 950.0,
+        "y": 1350.0,
         "rotation": 337.5
       }
     },
@@ -4216,8 +4216,8 @@
       "holdType": "POCKET",
       "difficulty": 8.76,
       "pose": {
-        "x": 1.0,
-        "y": 14.0,
+        "x": 100.0,
+        "y": 1400.0,
         "rotation": 315
       }
     },
@@ -4225,8 +4225,8 @@
       "holdType": "PINCH",
       "difficulty": 6.47,
       "pose": {
-        "x": 2.0,
-        "y": 14.0,
+        "x": 200.0,
+        "y": 1400.0,
         "rotation": 247.5
       }
     },
@@ -4234,8 +4234,8 @@
       "holdType": "CRIMP",
       "difficulty": 2.83,
       "pose": {
-        "x": 3.0,
-        "y": 14.0,
+        "x": 300.0,
+        "y": 1400.0,
         "rotation": 247.5
       }
     },
@@ -4243,8 +4243,8 @@
       "holdType": "JUG",
       "difficulty": 8.64,
       "pose": {
-        "x": 4.0,
-        "y": 14.0,
+        "x": 400.0,
+        "y": 1400.0,
         "rotation": 247.5
       }
     },
@@ -4252,8 +4252,8 @@
       "holdType": "JUG",
       "difficulty": 4.06,
       "pose": {
-        "x": 5.0,
-        "y": 14.0,
+        "x": 500.0,
+        "y": 1400.0,
         "rotation": 315
       }
     },
@@ -4261,8 +4261,8 @@
       "holdType": "CRIMP",
       "difficulty": 7.12,
       "pose": {
-        "x": 6.0,
-        "y": 14.0,
+        "x": 600.0,
+        "y": 1400.0,
         "rotation": 67.5
       }
     },
@@ -4270,8 +4270,8 @@
       "holdType": "POCKET",
       "difficulty": 3.73,
       "pose": {
-        "x": 7.0,
-        "y": 14.0,
+        "x": 700.0,
+        "y": 1400.0,
         "rotation": 0
       }
     },
@@ -4279,8 +4279,8 @@
       "holdType": "EDGE",
       "difficulty": 6.55,
       "pose": {
-        "x": 8.0,
-        "y": 14.0,
+        "x": 800.0,
+        "y": 1400.0,
         "rotation": 45
       }
     },
@@ -4288,8 +4288,8 @@
       "holdType": "SLOPER",
       "difficulty": 8.98,
       "pose": {
-        "x": 9.0,
-        "y": 14.0,
+        "x": 900.0,
+        "y": 1400.0,
         "rotation": 270
       }
     },
@@ -4297,8 +4297,8 @@
       "holdType": "EDGE",
       "difficulty": 3.15,
       "pose": {
-        "x": 1.5,
-        "y": 14.0,
+        "x": 150.0,
+        "y": 1400.0,
         "rotation": 0
       }
     },
@@ -4306,8 +4306,8 @@
       "holdType": "EDGE",
       "difficulty": 3.5,
       "pose": {
-        "x": 2.5,
-        "y": 14.0,
+        "x": 250.0,
+        "y": 1400.0,
         "rotation": 270
       }
     },
@@ -4315,8 +4315,8 @@
       "holdType": "EDGE",
       "difficulty": 9.29,
       "pose": {
-        "x": 3.5,
-        "y": 14.0,
+        "x": 350.0,
+        "y": 1400.0,
         "rotation": 247.5
       }
     },
@@ -4324,8 +4324,8 @@
       "holdType": "PINCH",
       "difficulty": 6.29,
       "pose": {
-        "x": 4.5,
-        "y": 14.0,
+        "x": 450.0,
+        "y": 1400.0,
         "rotation": 270
       }
     },
@@ -4333,8 +4333,8 @@
       "holdType": "POCKET",
       "difficulty": 5.96,
       "pose": {
-        "x": 5.5,
-        "y": 14.0,
+        "x": 550.0,
+        "y": 1400.0,
         "rotation": 337.5
       }
     },
@@ -4342,8 +4342,8 @@
       "holdType": "PINCH",
       "difficulty": 6.16,
       "pose": {
-        "x": 6.5,
-        "y": 14.0,
+        "x": 650.0,
+        "y": 1400.0,
         "rotation": 247.5
       }
     },
@@ -4351,8 +4351,8 @@
       "holdType": "SLOPER",
       "difficulty": 5.58,
       "pose": {
-        "x": 7.5,
-        "y": 14.0,
+        "x": 750.0,
+        "y": 1400.0,
         "rotation": 45
       }
     },
@@ -4360,8 +4360,8 @@
       "holdType": "PINCH",
       "difficulty": 1.62,
       "pose": {
-        "x": 8.5,
-        "y": 14.0,
+        "x": 850.0,
+        "y": 1400.0,
         "rotation": 135
       }
     },
@@ -4369,8 +4369,8 @@
       "holdType": "CRIMP",
       "difficulty": 3.98,
       "pose": {
-        "x": 9.5,
-        "y": 14.0,
+        "x": 950.0,
+        "y": 1400.0,
         "rotation": 67.5
       }
     },
@@ -4378,8 +4378,8 @@
       "holdType": "JUG",
       "difficulty": 3.62,
       "pose": {
-        "x": 1.0,
-        "y": 14.5,
+        "x": 100.0,
+        "y": 1450.0,
         "rotation": 315
       }
     },
@@ -4387,8 +4387,8 @@
       "holdType": "JUG",
       "difficulty": 5.93,
       "pose": {
-        "x": 2.0,
-        "y": 14.5,
+        "x": 200.0,
+        "y": 1450.0,
         "rotation": 90
       }
     },
@@ -4396,8 +4396,8 @@
       "holdType": "SLOPER",
       "difficulty": 6.42,
       "pose": {
-        "x": 3.0,
-        "y": 14.5,
+        "x": 300.0,
+        "y": 1450.0,
         "rotation": 90
       }
     },
@@ -4405,8 +4405,8 @@
       "holdType": "PINCH",
       "difficulty": 3.6,
       "pose": {
-        "x": 4.0,
-        "y": 14.5,
+        "x": 400.0,
+        "y": 1450.0,
         "rotation": 270
       }
     },
@@ -4414,8 +4414,8 @@
       "holdType": "CRIMP",
       "difficulty": 6.79,
       "pose": {
-        "x": 5.0,
-        "y": 14.5,
+        "x": 500.0,
+        "y": 1450.0,
         "rotation": 22.5
       }
     },
@@ -4423,8 +4423,8 @@
       "holdType": "JUG",
       "difficulty": 7.45,
       "pose": {
-        "x": 6.0,
-        "y": 14.5,
+        "x": 600.0,
+        "y": 1450.0,
         "rotation": 157.5
       }
     },
@@ -4432,8 +4432,8 @@
       "holdType": "SLOPER",
       "difficulty": 2.46,
       "pose": {
-        "x": 7.0,
-        "y": 14.5,
+        "x": 700.0,
+        "y": 1450.0,
         "rotation": 180
       }
     },
@@ -4441,8 +4441,8 @@
       "holdType": "SLOPER",
       "difficulty": 6.56,
       "pose": {
-        "x": 8.0,
-        "y": 14.5,
+        "x": 800.0,
+        "y": 1450.0,
         "rotation": 337.5
       }
     },
@@ -4450,8 +4450,8 @@
       "holdType": "CRIMP",
       "difficulty": 2.04,
       "pose": {
-        "x": 9.0,
-        "y": 14.5,
+        "x": 900.0,
+        "y": 1450.0,
         "rotation": 315
       }
     },
@@ -4459,8 +4459,8 @@
       "holdType": "SLOPER",
       "difficulty": 5.03,
       "pose": {
-        "x": 1.5,
-        "y": 14.5,
+        "x": 150.0,
+        "y": 1450.0,
         "rotation": 157.5
       }
     },
@@ -4468,8 +4468,8 @@
       "holdType": "CRIMP",
       "difficulty": 4.48,
       "pose": {
-        "x": 2.5,
-        "y": 14.5,
+        "x": 250.0,
+        "y": 1450.0,
         "rotation": 202.5
       }
     },
@@ -4477,8 +4477,8 @@
       "holdType": "JUG",
       "difficulty": 4.07,
       "pose": {
-        "x": 3.5,
-        "y": 14.5,
+        "x": 350.0,
+        "y": 1450.0,
         "rotation": 202.5
       }
     },
@@ -4486,8 +4486,8 @@
       "holdType": "POCKET",
       "difficulty": 2.47,
       "pose": {
-        "x": 4.5,
-        "y": 14.5,
+        "x": 450.0,
+        "y": 1450.0,
         "rotation": 90
       }
     },
@@ -4495,8 +4495,8 @@
       "holdType": "JUG",
       "difficulty": 8.69,
       "pose": {
-        "x": 5.5,
-        "y": 14.5,
+        "x": 550.0,
+        "y": 1450.0,
         "rotation": 315
       }
     },
@@ -4504,8 +4504,8 @@
       "holdType": "POCKET",
       "difficulty": 8.95,
       "pose": {
-        "x": 6.5,
-        "y": 14.5,
+        "x": 650.0,
+        "y": 1450.0,
         "rotation": 202.5
       }
     },
@@ -4513,8 +4513,8 @@
       "holdType": "SLOPER",
       "difficulty": 9.71,
       "pose": {
-        "x": 7.5,
-        "y": 14.5,
+        "x": 750.0,
+        "y": 1450.0,
         "rotation": 112.5
       }
     },
@@ -4522,8 +4522,8 @@
       "holdType": "PINCH",
       "difficulty": 1.86,
       "pose": {
-        "x": 8.5,
-        "y": 14.5,
+        "x": 850.0,
+        "y": 1450.0,
         "rotation": 247.5
       }
     },
@@ -4531,8 +4531,8 @@
       "holdType": "CRIMP",
       "difficulty": 6.29,
       "pose": {
-        "x": 9.5,
-        "y": 14.5,
+        "x": 950.0,
+        "y": 1450.0,
         "rotation": 225
       }
     },
@@ -4540,8 +4540,8 @@
       "holdType": "JUG",
       "difficulty": 5.12,
       "pose": {
-        "x": 1.0,
-        "y": 15.0,
+        "x": 100.0,
+        "y": 1500.0,
         "rotation": 45
       }
     },
@@ -4549,8 +4549,8 @@
       "holdType": "POCKET",
       "difficulty": 9.91,
       "pose": {
-        "x": 2.0,
-        "y": 15.0,
+        "x": 200.0,
+        "y": 1500.0,
         "rotation": 135
       }
     },
@@ -4558,8 +4558,8 @@
       "holdType": "POCKET",
       "difficulty": 1.44,
       "pose": {
-        "x": 3.0,
-        "y": 15.0,
+        "x": 300.0,
+        "y": 1500.0,
         "rotation": 67.5
       }
     },
@@ -4567,8 +4567,8 @@
       "holdType": "SLOPER",
       "difficulty": 8.07,
       "pose": {
-        "x": 4.0,
-        "y": 15.0,
+        "x": 400.0,
+        "y": 1500.0,
         "rotation": 45
       }
     },
@@ -4576,8 +4576,8 @@
       "holdType": "PINCH",
       "difficulty": 9.69,
       "pose": {
-        "x": 5.0,
-        "y": 15.0,
+        "x": 500.0,
+        "y": 1500.0,
         "rotation": 247.5
       }
     },
@@ -4585,8 +4585,8 @@
       "holdType": "SLOPER",
       "difficulty": 9.53,
       "pose": {
-        "x": 6.0,
-        "y": 15.0,
+        "x": 600.0,
+        "y": 1500.0,
         "rotation": 157.5
       }
     },
@@ -4594,8 +4594,8 @@
       "holdType": "EDGE",
       "difficulty": 8.9,
       "pose": {
-        "x": 7.0,
-        "y": 15.0,
+        "x": 700.0,
+        "y": 1500.0,
         "rotation": 112.5
       }
     },
@@ -4603,8 +4603,8 @@
       "holdType": "POCKET",
       "difficulty": 6.3,
       "pose": {
-        "x": 8.0,
-        "y": 15.0,
+        "x": 800.0,
+        "y": 1500.0,
         "rotation": 157.5
       }
     },
@@ -4612,8 +4612,8 @@
       "holdType": "PINCH",
       "difficulty": 3.91,
       "pose": {
-        "x": 9.0,
-        "y": 15.0,
+        "x": 900.0,
+        "y": 1500.0,
         "rotation": 0
       }
     },
@@ -4621,8 +4621,8 @@
       "holdType": "SLOPER",
       "difficulty": 4.06,
       "pose": {
-        "x": 1.5,
-        "y": 15.0,
+        "x": 150.0,
+        "y": 1500.0,
         "rotation": 202.5
       }
     },
@@ -4630,8 +4630,8 @@
       "holdType": "POCKET",
       "difficulty": 1.41,
       "pose": {
-        "x": 2.5,
-        "y": 15.0,
+        "x": 250.0,
+        "y": 1500.0,
         "rotation": 0
       }
     },
@@ -4639,8 +4639,8 @@
       "holdType": "POCKET",
       "difficulty": 5.2,
       "pose": {
-        "x": 3.5,
-        "y": 15.0,
+        "x": 350.0,
+        "y": 1500.0,
         "rotation": 202.5
       }
     },
@@ -4648,8 +4648,8 @@
       "holdType": "JUG",
       "difficulty": 7.13,
       "pose": {
-        "x": 4.5,
-        "y": 15.0,
+        "x": 450.0,
+        "y": 1500.0,
         "rotation": 135
       }
     },
@@ -4657,8 +4657,8 @@
       "holdType": "CRIMP",
       "difficulty": 7.76,
       "pose": {
-        "x": 5.5,
-        "y": 15.0,
+        "x": 550.0,
+        "y": 1500.0,
         "rotation": 180
       }
     },
@@ -4666,8 +4666,8 @@
       "holdType": "POCKET",
       "difficulty": 5.99,
       "pose": {
-        "x": 6.5,
-        "y": 15.0,
+        "x": 650.0,
+        "y": 1500.0,
         "rotation": 0
       }
     },
@@ -4675,8 +4675,8 @@
       "holdType": "SLOPER",
       "difficulty": 3.42,
       "pose": {
-        "x": 7.5,
-        "y": 15.0,
+        "x": 750.0,
+        "y": 1500.0,
         "rotation": 0
       }
     },
@@ -4684,8 +4684,8 @@
       "holdType": "CRIMP",
       "difficulty": 8.41,
       "pose": {
-        "x": 8.5,
-        "y": 15.0,
+        "x": 850.0,
+        "y": 1500.0,
         "rotation": 112.5
       }
     },
@@ -4693,8 +4693,8 @@
       "holdType": "CRIMP",
       "difficulty": 5.59,
       "pose": {
-        "x": 9.5,
-        "y": 15.0,
+        "x": 950.0,
+        "y": 1500.0,
         "rotation": 180
       }
     },
@@ -4702,8 +4702,8 @@
       "holdType": "POCKET",
       "difficulty": 4.64,
       "pose": {
-        "x": 1.0,
-        "y": 15.5,
+        "x": 100.0,
+        "y": 1550.0,
         "rotation": 157.5
       }
     },
@@ -4711,8 +4711,8 @@
       "holdType": "SLOPER",
       "difficulty": 7.83,
       "pose": {
-        "x": 2.0,
-        "y": 15.5,
+        "x": 200.0,
+        "y": 1550.0,
         "rotation": 135
       }
     },
@@ -4720,8 +4720,8 @@
       "holdType": "CRIMP",
       "difficulty": 2.3,
       "pose": {
-        "x": 3.0,
-        "y": 15.5,
+        "x": 300.0,
+        "y": 1550.0,
         "rotation": 180
       }
     },
@@ -4729,8 +4729,8 @@
       "holdType": "POCKET",
       "difficulty": 3.49,
       "pose": {
-        "x": 4.0,
-        "y": 15.5,
+        "x": 400.0,
+        "y": 1550.0,
         "rotation": 22.5
       }
     },
@@ -4738,8 +4738,8 @@
       "holdType": "CRIMP",
       "difficulty": 2.53,
       "pose": {
-        "x": 5.0,
-        "y": 15.5,
+        "x": 500.0,
+        "y": 1550.0,
         "rotation": 0
       }
     },
@@ -4747,8 +4747,8 @@
       "holdType": "POCKET",
       "difficulty": 4.73,
       "pose": {
-        "x": 6.0,
-        "y": 15.5,
+        "x": 600.0,
+        "y": 1550.0,
         "rotation": 202.5
       }
     },
@@ -4756,8 +4756,8 @@
       "holdType": "EDGE",
       "difficulty": 1.24,
       "pose": {
-        "x": 7.0,
-        "y": 15.5,
+        "x": 700.0,
+        "y": 1550.0,
         "rotation": 315
       }
     },
@@ -4765,8 +4765,8 @@
       "holdType": "PINCH",
       "difficulty": 4.19,
       "pose": {
-        "x": 8.0,
-        "y": 15.5,
+        "x": 800.0,
+        "y": 1550.0,
         "rotation": 315
       }
     },
@@ -4774,8 +4774,8 @@
       "holdType": "POCKET",
       "difficulty": 1.86,
       "pose": {
-        "x": 9.0,
-        "y": 15.5,
+        "x": 900.0,
+        "y": 1550.0,
         "rotation": 247.5
       }
     },
@@ -4783,8 +4783,8 @@
       "holdType": "EDGE",
       "difficulty": 1.81,
       "pose": {
-        "x": 1.5,
-        "y": 15.5,
+        "x": 150.0,
+        "y": 1550.0,
         "rotation": 135
       }
     },
@@ -4792,8 +4792,8 @@
       "holdType": "PINCH",
       "difficulty": 6.5,
       "pose": {
-        "x": 2.5,
-        "y": 15.5,
+        "x": 250.0,
+        "y": 1550.0,
         "rotation": 0
       }
     },
@@ -4801,8 +4801,8 @@
       "holdType": "CRIMP",
       "difficulty": 7.98,
       "pose": {
-        "x": 3.5,
-        "y": 15.5,
+        "x": 350.0,
+        "y": 1550.0,
         "rotation": 22.5
       }
     },
@@ -4810,8 +4810,8 @@
       "holdType": "CRIMP",
       "difficulty": 8.38,
       "pose": {
-        "x": 4.5,
-        "y": 15.5,
+        "x": 450.0,
+        "y": 1550.0,
         "rotation": 270
       }
     },
@@ -4819,8 +4819,8 @@
       "holdType": "EDGE",
       "difficulty": 2.96,
       "pose": {
-        "x": 5.5,
-        "y": 15.5,
+        "x": 550.0,
+        "y": 1550.0,
         "rotation": 157.5
       }
     },
@@ -4828,8 +4828,8 @@
       "holdType": "PINCH",
       "difficulty": 9.38,
       "pose": {
-        "x": 6.5,
-        "y": 15.5,
+        "x": 650.0,
+        "y": 1550.0,
         "rotation": 292.5
       }
     },
@@ -4837,8 +4837,8 @@
       "holdType": "JUG",
       "difficulty": 6.76,
       "pose": {
-        "x": 7.5,
-        "y": 15.5,
+        "x": 750.0,
+        "y": 1550.0,
         "rotation": 337.5
       }
     },
@@ -4846,8 +4846,8 @@
       "holdType": "JUG",
       "difficulty": 4.02,
       "pose": {
-        "x": 8.5,
-        "y": 15.5,
+        "x": 850.0,
+        "y": 1550.0,
         "rotation": 225
       }
     },
@@ -4855,8 +4855,8 @@
       "holdType": "EDGE",
       "difficulty": 8.77,
       "pose": {
-        "x": 9.5,
-        "y": 15.5,
+        "x": 950.0,
+        "y": 1550.0,
         "rotation": 315
       }
     },
@@ -4864,8 +4864,8 @@
       "holdType": "CRIMP",
       "difficulty": 1.48,
       "pose": {
-        "x": 1.0,
-        "y": 16.0,
+        "x": 100.0,
+        "y": 1600.0,
         "rotation": 315
       }
     },
@@ -4873,8 +4873,8 @@
       "holdType": "EDGE",
       "difficulty": 4.46,
       "pose": {
-        "x": 2.0,
-        "y": 16.0,
+        "x": 200.0,
+        "y": 1600.0,
         "rotation": 292.5
       }
     },
@@ -4882,8 +4882,8 @@
       "holdType": "JUG",
       "difficulty": 3.65,
       "pose": {
-        "x": 3.0,
-        "y": 16.0,
+        "x": 300.0,
+        "y": 1600.0,
         "rotation": 337.5
       }
     },
@@ -4891,8 +4891,8 @@
       "holdType": "EDGE",
       "difficulty": 6.96,
       "pose": {
-        "x": 4.0,
-        "y": 16.0,
+        "x": 400.0,
+        "y": 1600.0,
         "rotation": 0
       }
     },
@@ -4900,8 +4900,8 @@
       "holdType": "EDGE",
       "difficulty": 1.42,
       "pose": {
-        "x": 5.0,
-        "y": 16.0,
+        "x": 500.0,
+        "y": 1600.0,
         "rotation": 45
       }
     },
@@ -4909,8 +4909,8 @@
       "holdType": "PINCH",
       "difficulty": 1.31,
       "pose": {
-        "x": 6.0,
-        "y": 16.0,
+        "x": 600.0,
+        "y": 1600.0,
         "rotation": 292.5
       }
     },
@@ -4918,8 +4918,8 @@
       "holdType": "CRIMP",
       "difficulty": 2.61,
       "pose": {
-        "x": 7.0,
-        "y": 16.0,
+        "x": 700.0,
+        "y": 1600.0,
         "rotation": 112.5
       }
     },
@@ -4927,8 +4927,8 @@
       "holdType": "EDGE",
       "difficulty": 2.03,
       "pose": {
-        "x": 8.0,
-        "y": 16.0,
+        "x": 800.0,
+        "y": 1600.0,
         "rotation": 247.5
       }
     },
@@ -4936,8 +4936,8 @@
       "holdType": "EDGE",
       "difficulty": 5.3,
       "pose": {
-        "x": 9.0,
-        "y": 16.0,
+        "x": 900.0,
+        "y": 1600.0,
         "rotation": 67.5
       }
     },
@@ -4945,8 +4945,8 @@
       "holdType": "JUG",
       "difficulty": 9.77,
       "pose": {
-        "x": 1.5,
-        "y": 16.0,
+        "x": 150.0,
+        "y": 1600.0,
         "rotation": 337.5
       }
     },
@@ -4954,8 +4954,8 @@
       "holdType": "PINCH",
       "difficulty": 8.73,
       "pose": {
-        "x": 2.5,
-        "y": 16.0,
+        "x": 250.0,
+        "y": 1600.0,
         "rotation": 0
       }
     },
@@ -4963,8 +4963,8 @@
       "holdType": "POCKET",
       "difficulty": 5.28,
       "pose": {
-        "x": 3.5,
-        "y": 16.0,
+        "x": 350.0,
+        "y": 1600.0,
         "rotation": 270
       }
     },
@@ -4972,8 +4972,8 @@
       "holdType": "POCKET",
       "difficulty": 7.13,
       "pose": {
-        "x": 4.5,
-        "y": 16.0,
+        "x": 450.0,
+        "y": 1600.0,
         "rotation": 202.5
       }
     },
@@ -4981,8 +4981,8 @@
       "holdType": "POCKET",
       "difficulty": 9.27,
       "pose": {
-        "x": 5.5,
-        "y": 16.0,
+        "x": 550.0,
+        "y": 1600.0,
         "rotation": 315
       }
     },
@@ -4990,8 +4990,8 @@
       "holdType": "POCKET",
       "difficulty": 9.8,
       "pose": {
-        "x": 6.5,
-        "y": 16.0,
+        "x": 650.0,
+        "y": 1600.0,
         "rotation": 315
       }
     },
@@ -4999,8 +4999,8 @@
       "holdType": "CRIMP",
       "difficulty": 2.9,
       "pose": {
-        "x": 7.5,
-        "y": 16.0,
+        "x": 750.0,
+        "y": 1600.0,
         "rotation": 225
       }
     },
@@ -5008,8 +5008,8 @@
       "holdType": "JUG",
       "difficulty": 5.78,
       "pose": {
-        "x": 8.5,
-        "y": 16.0,
+        "x": 850.0,
+        "y": 1600.0,
         "rotation": 292.5
       }
     },
@@ -5017,8 +5017,8 @@
       "holdType": "POCKET",
       "difficulty": 3.98,
       "pose": {
-        "x": 9.5,
-        "y": 16.0,
+        "x": 950.0,
+        "y": 1600.0,
         "rotation": 225
       }
     },
@@ -5026,8 +5026,8 @@
       "holdType": "EDGE",
       "difficulty": 1.61,
       "pose": {
-        "x": 1.0,
-        "y": 16.5,
+        "x": 100.0,
+        "y": 1650.0,
         "rotation": 90
       }
     },
@@ -5035,8 +5035,8 @@
       "holdType": "JUG",
       "difficulty": 9.01,
       "pose": {
-        "x": 2.0,
-        "y": 16.5,
+        "x": 200.0,
+        "y": 1650.0,
         "rotation": 45
       }
     },
@@ -5044,8 +5044,8 @@
       "holdType": "PINCH",
       "difficulty": 7.71,
       "pose": {
-        "x": 3.0,
-        "y": 16.5,
+        "x": 300.0,
+        "y": 1650.0,
         "rotation": 315
       }
     },
@@ -5053,8 +5053,8 @@
       "holdType": "CRIMP",
       "difficulty": 9.41,
       "pose": {
-        "x": 4.0,
-        "y": 16.5,
+        "x": 400.0,
+        "y": 1650.0,
         "rotation": 90
       }
     },
@@ -5062,8 +5062,8 @@
       "holdType": "JUG",
       "difficulty": 7.07,
       "pose": {
-        "x": 5.0,
-        "y": 16.5,
+        "x": 500.0,
+        "y": 1650.0,
         "rotation": 157.5
       }
     },
@@ -5071,8 +5071,8 @@
       "holdType": "EDGE",
       "difficulty": 4.42,
       "pose": {
-        "x": 6.0,
-        "y": 16.5,
+        "x": 600.0,
+        "y": 1650.0,
         "rotation": 270
       }
     },
@@ -5080,8 +5080,8 @@
       "holdType": "CRIMP",
       "difficulty": 8.01,
       "pose": {
-        "x": 7.0,
-        "y": 16.5,
+        "x": 700.0,
+        "y": 1650.0,
         "rotation": 0
       }
     },
@@ -5089,8 +5089,8 @@
       "holdType": "CRIMP",
       "difficulty": 8.85,
       "pose": {
-        "x": 8.0,
-        "y": 16.5,
+        "x": 800.0,
+        "y": 1650.0,
         "rotation": 180
       }
     },
@@ -5098,8 +5098,8 @@
       "holdType": "JUG",
       "difficulty": 1.03,
       "pose": {
-        "x": 9.0,
-        "y": 16.5,
+        "x": 900.0,
+        "y": 1650.0,
         "rotation": 67.5
       }
     },
@@ -5107,8 +5107,8 @@
       "holdType": "CRIMP",
       "difficulty": 4.24,
       "pose": {
-        "x": 1.5,
-        "y": 16.5,
+        "x": 150.0,
+        "y": 1650.0,
         "rotation": 45
       }
     },
@@ -5116,8 +5116,8 @@
       "holdType": "CRIMP",
       "difficulty": 6.47,
       "pose": {
-        "x": 2.5,
-        "y": 16.5,
+        "x": 250.0,
+        "y": 1650.0,
         "rotation": 180
       }
     },
@@ -5125,8 +5125,8 @@
       "holdType": "POCKET",
       "difficulty": 3.27,
       "pose": {
-        "x": 3.5,
-        "y": 16.5,
+        "x": 350.0,
+        "y": 1650.0,
         "rotation": 292.5
       }
     },
@@ -5134,8 +5134,8 @@
       "holdType": "PINCH",
       "difficulty": 1.27,
       "pose": {
-        "x": 4.5,
-        "y": 16.5,
+        "x": 450.0,
+        "y": 1650.0,
         "rotation": 180
       }
     },
@@ -5143,8 +5143,8 @@
       "holdType": "EDGE",
       "difficulty": 2.02,
       "pose": {
-        "x": 5.5,
-        "y": 16.5,
+        "x": 550.0,
+        "y": 1650.0,
         "rotation": 225
       }
     },
@@ -5152,8 +5152,8 @@
       "holdType": "JUG",
       "difficulty": 7.72,
       "pose": {
-        "x": 6.5,
-        "y": 16.5,
+        "x": 650.0,
+        "y": 1650.0,
         "rotation": 45
       }
     },
@@ -5161,8 +5161,8 @@
       "holdType": "SLOPER",
       "difficulty": 6.42,
       "pose": {
-        "x": 7.5,
-        "y": 16.5,
+        "x": 750.0,
+        "y": 1650.0,
         "rotation": 67.5
       }
     },
@@ -5170,8 +5170,8 @@
       "holdType": "POCKET",
       "difficulty": 3.7,
       "pose": {
-        "x": 8.5,
-        "y": 16.5,
+        "x": 850.0,
+        "y": 1650.0,
         "rotation": 292.5
       }
     },
@@ -5179,8 +5179,8 @@
       "holdType": "CRIMP",
       "difficulty": 7.92,
       "pose": {
-        "x": 9.5,
-        "y": 16.5,
+        "x": 950.0,
+        "y": 1650.0,
         "rotation": 157.5
       }
     },
@@ -5188,8 +5188,8 @@
       "holdType": "EDGE",
       "difficulty": 1.74,
       "pose": {
-        "x": 1.0,
-        "y": 17.0,
+        "x": 100.0,
+        "y": 1700.0,
         "rotation": 202.5
       }
     },
@@ -5197,8 +5197,8 @@
       "holdType": "EDGE",
       "difficulty": 8.4,
       "pose": {
-        "x": 2.0,
-        "y": 17.0,
+        "x": 200.0,
+        "y": 1700.0,
         "rotation": 247.5
       }
     },
@@ -5206,8 +5206,8 @@
       "holdType": "CRIMP",
       "difficulty": 7.84,
       "pose": {
-        "x": 3.0,
-        "y": 17.0,
+        "x": 300.0,
+        "y": 1700.0,
         "rotation": 270
       }
     },
@@ -5215,8 +5215,8 @@
       "holdType": "POCKET",
       "difficulty": 3.37,
       "pose": {
-        "x": 4.0,
-        "y": 17.0,
+        "x": 400.0,
+        "y": 1700.0,
         "rotation": 292.5
       }
     },
@@ -5224,8 +5224,8 @@
       "holdType": "JUG",
       "difficulty": 3.46,
       "pose": {
-        "x": 5.0,
-        "y": 17.0,
+        "x": 500.0,
+        "y": 1700.0,
         "rotation": 90
       }
     },
@@ -5233,8 +5233,8 @@
       "holdType": "JUG",
       "difficulty": 1.22,
       "pose": {
-        "x": 6.0,
-        "y": 17.0,
+        "x": 600.0,
+        "y": 1700.0,
         "rotation": 45
       }
     },
@@ -5242,8 +5242,8 @@
       "holdType": "PINCH",
       "difficulty": 7.86,
       "pose": {
-        "x": 7.0,
-        "y": 17.0,
+        "x": 700.0,
+        "y": 1700.0,
         "rotation": 157.5
       }
     },
@@ -5251,8 +5251,8 @@
       "holdType": "PINCH",
       "difficulty": 7.33,
       "pose": {
-        "x": 8.0,
-        "y": 17.0,
+        "x": 800.0,
+        "y": 1700.0,
         "rotation": 22.5
       }
     },
@@ -5260,8 +5260,8 @@
       "holdType": "CRIMP",
       "difficulty": 4.95,
       "pose": {
-        "x": 9.0,
-        "y": 17.0,
+        "x": 900.0,
+        "y": 1700.0,
         "rotation": 135
       }
     },
@@ -5269,8 +5269,8 @@
       "holdType": "EDGE",
       "difficulty": 6.0,
       "pose": {
-        "x": 1.5,
-        "y": 17.0,
+        "x": 150.0,
+        "y": 1700.0,
         "rotation": 45
       }
     },
@@ -5278,8 +5278,8 @@
       "holdType": "POCKET",
       "difficulty": 5.36,
       "pose": {
-        "x": 2.5,
-        "y": 17.0,
+        "x": 250.0,
+        "y": 1700.0,
         "rotation": 0
       }
     },
@@ -5287,8 +5287,8 @@
       "holdType": "CRIMP",
       "difficulty": 6.18,
       "pose": {
-        "x": 3.5,
-        "y": 17.0,
+        "x": 350.0,
+        "y": 1700.0,
         "rotation": 315
       }
     },
@@ -5296,8 +5296,8 @@
       "holdType": "CRIMP",
       "difficulty": 1.16,
       "pose": {
-        "x": 4.5,
-        "y": 17.0,
+        "x": 450.0,
+        "y": 1700.0,
         "rotation": 315
       }
     },
@@ -5305,8 +5305,8 @@
       "holdType": "CRIMP",
       "difficulty": 2.1,
       "pose": {
-        "x": 5.5,
-        "y": 17.0,
+        "x": 550.0,
+        "y": 1700.0,
         "rotation": 247.5
       }
     },
@@ -5314,8 +5314,8 @@
       "holdType": "PINCH",
       "difficulty": 4.12,
       "pose": {
-        "x": 6.5,
-        "y": 17.0,
+        "x": 650.0,
+        "y": 1700.0,
         "rotation": 135
       }
     },
@@ -5323,8 +5323,8 @@
       "holdType": "CRIMP",
       "difficulty": 9.54,
       "pose": {
-        "x": 7.5,
-        "y": 17.0,
+        "x": 750.0,
+        "y": 1700.0,
         "rotation": 45
       }
     },
@@ -5332,8 +5332,8 @@
       "holdType": "JUG",
       "difficulty": 4.71,
       "pose": {
-        "x": 8.5,
-        "y": 17.0,
+        "x": 850.0,
+        "y": 1700.0,
         "rotation": 22.5
       }
     },
@@ -5341,8 +5341,8 @@
       "holdType": "JUG",
       "difficulty": 7.93,
       "pose": {
-        "x": 9.5,
-        "y": 17.0,
+        "x": 950.0,
+        "y": 1700.0,
         "rotation": 202.5
       }
     },
@@ -5350,8 +5350,8 @@
       "holdType": "JUG",
       "difficulty": 1.4,
       "pose": {
-        "x": 1.0,
-        "y": 17.5,
+        "x": 100.0,
+        "y": 1750.0,
         "rotation": 0
       }
     },
@@ -5359,8 +5359,8 @@
       "holdType": "EDGE",
       "difficulty": 9.4,
       "pose": {
-        "x": 2.0,
-        "y": 17.5,
+        "x": 200.0,
+        "y": 1750.0,
         "rotation": 315
       }
     },
@@ -5368,8 +5368,8 @@
       "holdType": "SLOPER",
       "difficulty": 6.89,
       "pose": {
-        "x": 3.0,
-        "y": 17.5,
+        "x": 300.0,
+        "y": 1750.0,
         "rotation": 180
       }
     },
@@ -5377,8 +5377,8 @@
       "holdType": "CRIMP",
       "difficulty": 7.98,
       "pose": {
-        "x": 4.0,
-        "y": 17.5,
+        "x": 400.0,
+        "y": 1750.0,
         "rotation": 270
       }
     },
@@ -5386,8 +5386,8 @@
       "holdType": "PINCH",
       "difficulty": 1.91,
       "pose": {
-        "x": 5.0,
-        "y": 17.5,
+        "x": 500.0,
+        "y": 1750.0,
         "rotation": 0
       }
     },
@@ -5395,8 +5395,8 @@
       "holdType": "JUG",
       "difficulty": 8.29,
       "pose": {
-        "x": 6.0,
-        "y": 17.5,
+        "x": 600.0,
+        "y": 1750.0,
         "rotation": 270
       }
     },
@@ -5404,8 +5404,8 @@
       "holdType": "SLOPER",
       "difficulty": 1.38,
       "pose": {
-        "x": 7.0,
-        "y": 17.5,
+        "x": 700.0,
+        "y": 1750.0,
         "rotation": 225
       }
     },
@@ -5413,8 +5413,8 @@
       "holdType": "EDGE",
       "difficulty": 7.89,
       "pose": {
-        "x": 8.0,
-        "y": 17.5,
+        "x": 800.0,
+        "y": 1750.0,
         "rotation": 67.5
       }
     },
@@ -5422,8 +5422,8 @@
       "holdType": "POCKET",
       "difficulty": 8.55,
       "pose": {
-        "x": 9.0,
-        "y": 17.5,
+        "x": 900.0,
+        "y": 1750.0,
         "rotation": 135
       }
     },
@@ -5431,8 +5431,8 @@
       "holdType": "POCKET",
       "difficulty": 6.87,
       "pose": {
-        "x": 1.5,
-        "y": 17.5,
+        "x": 150.0,
+        "y": 1750.0,
         "rotation": 202.5
       }
     },
@@ -5440,8 +5440,8 @@
       "holdType": "POCKET",
       "difficulty": 1.97,
       "pose": {
-        "x": 2.5,
-        "y": 17.5,
+        "x": 250.0,
+        "y": 1750.0,
         "rotation": 45
       }
     },
@@ -5449,8 +5449,8 @@
       "holdType": "CRIMP",
       "difficulty": 5.58,
       "pose": {
-        "x": 3.5,
-        "y": 17.5,
+        "x": 350.0,
+        "y": 1750.0,
         "rotation": 180
       }
     },
@@ -5458,8 +5458,8 @@
       "holdType": "CRIMP",
       "difficulty": 8.93,
       "pose": {
-        "x": 4.5,
-        "y": 17.5,
+        "x": 450.0,
+        "y": 1750.0,
         "rotation": 135
       }
     },
@@ -5467,8 +5467,8 @@
       "holdType": "EDGE",
       "difficulty": 9.52,
       "pose": {
-        "x": 5.5,
-        "y": 17.5,
+        "x": 550.0,
+        "y": 1750.0,
         "rotation": 270
       }
     },
@@ -5476,8 +5476,8 @@
       "holdType": "POCKET",
       "difficulty": 2.35,
       "pose": {
-        "x": 6.5,
-        "y": 17.5,
+        "x": 650.0,
+        "y": 1750.0,
         "rotation": 157.5
       }
     },
@@ -5485,8 +5485,8 @@
       "holdType": "JUG",
       "difficulty": 6.7,
       "pose": {
-        "x": 7.5,
-        "y": 17.5,
+        "x": 750.0,
+        "y": 1750.0,
         "rotation": 90
       }
     },
@@ -5494,8 +5494,8 @@
       "holdType": "EDGE",
       "difficulty": 1.96,
       "pose": {
-        "x": 8.5,
-        "y": 17.5,
+        "x": 850.0,
+        "y": 1750.0,
         "rotation": 45
       }
     },
@@ -5503,8 +5503,8 @@
       "holdType": "PINCH",
       "difficulty": 7.68,
       "pose": {
-        "x": 9.5,
-        "y": 17.5,
+        "x": 950.0,
+        "y": 1750.0,
         "rotation": 202.5
       }
     },
@@ -5512,8 +5512,8 @@
       "holdType": "POCKET",
       "difficulty": 7.04,
       "pose": {
-        "x": 1.0,
-        "y": 18.0,
+        "x": 100.0,
+        "y": 1800.0,
         "rotation": 202.5
       }
     },
@@ -5521,8 +5521,8 @@
       "holdType": "POCKET",
       "difficulty": 6.2,
       "pose": {
-        "x": 2.0,
-        "y": 18.0,
+        "x": 200.0,
+        "y": 1800.0,
         "rotation": 112.5
       }
     },
@@ -5530,8 +5530,8 @@
       "holdType": "POCKET",
       "difficulty": 4.97,
       "pose": {
-        "x": 3.0,
-        "y": 18.0,
+        "x": 300.0,
+        "y": 1800.0,
         "rotation": 180
       }
     },
@@ -5539,8 +5539,8 @@
       "holdType": "POCKET",
       "difficulty": 3.65,
       "pose": {
-        "x": 4.0,
-        "y": 18.0,
+        "x": 400.0,
+        "y": 1800.0,
         "rotation": 22.5
       }
     },
@@ -5548,8 +5548,8 @@
       "holdType": "EDGE",
       "difficulty": 8.01,
       "pose": {
-        "x": 5.0,
-        "y": 18.0,
+        "x": 500.0,
+        "y": 1800.0,
         "rotation": 270
       }
     },
@@ -5557,8 +5557,8 @@
       "holdType": "POCKET",
       "difficulty": 9.31,
       "pose": {
-        "x": 6.0,
-        "y": 18.0,
+        "x": 600.0,
+        "y": 1800.0,
         "rotation": 22.5
       }
     },
@@ -5566,8 +5566,8 @@
       "holdType": "JUG",
       "difficulty": 4.44,
       "pose": {
-        "x": 7.0,
-        "y": 18.0,
+        "x": 700.0,
+        "y": 1800.0,
         "rotation": 45
       }
     },
@@ -5575,8 +5575,8 @@
       "holdType": "PINCH",
       "difficulty": 8.91,
       "pose": {
-        "x": 8.0,
-        "y": 18.0,
+        "x": 800.0,
+        "y": 1800.0,
         "rotation": 67.5
       }
     },
@@ -5584,8 +5584,8 @@
       "holdType": "PINCH",
       "difficulty": 7.53,
       "pose": {
-        "x": 9.0,
-        "y": 18.0,
+        "x": 900.0,
+        "y": 1800.0,
         "rotation": 315
       }
     },
@@ -5593,8 +5593,8 @@
       "holdType": "EDGE",
       "difficulty": 9.09,
       "pose": {
-        "x": 1.5,
-        "y": 18.0,
+        "x": 150.0,
+        "y": 1800.0,
         "rotation": 135
       }
     },
@@ -5602,8 +5602,8 @@
       "holdType": "POCKET",
       "difficulty": 6.61,
       "pose": {
-        "x": 2.5,
-        "y": 18.0,
+        "x": 250.0,
+        "y": 1800.0,
         "rotation": 315
       }
     },
@@ -5611,8 +5611,8 @@
       "holdType": "CRIMP",
       "difficulty": 4.28,
       "pose": {
-        "x": 3.5,
-        "y": 18.0,
+        "x": 350.0,
+        "y": 1800.0,
         "rotation": 225
       }
     },
@@ -5620,8 +5620,8 @@
       "holdType": "CRIMP",
       "difficulty": 2.45,
       "pose": {
-        "x": 4.5,
-        "y": 18.0,
+        "x": 450.0,
+        "y": 1800.0,
         "rotation": 0
       }
     },
@@ -5629,8 +5629,8 @@
       "holdType": "POCKET",
       "difficulty": 6.66,
       "pose": {
-        "x": 5.5,
-        "y": 18.0,
+        "x": 550.0,
+        "y": 1800.0,
         "rotation": 67.5
       }
     },
@@ -5638,8 +5638,8 @@
       "holdType": "POCKET",
       "difficulty": 3.62,
       "pose": {
-        "x": 6.5,
-        "y": 18.0,
+        "x": 650.0,
+        "y": 1800.0,
         "rotation": 315
       }
     },
@@ -5647,8 +5647,8 @@
       "holdType": "JUG",
       "difficulty": 1.81,
       "pose": {
-        "x": 7.5,
-        "y": 18.0,
+        "x": 750.0,
+        "y": 1800.0,
         "rotation": 22.5
       }
     },
@@ -5656,8 +5656,8 @@
       "holdType": "PINCH",
       "difficulty": 6.02,
       "pose": {
-        "x": 8.5,
-        "y": 18.0,
+        "x": 850.0,
+        "y": 1800.0,
         "rotation": 22.5
       }
     },
@@ -5665,8 +5665,8 @@
       "holdType": "EDGE",
       "difficulty": 4.32,
       "pose": {
-        "x": 9.5,
-        "y": 18.0,
+        "x": 950.0,
+        "y": 1800.0,
         "rotation": 270
       }
     }

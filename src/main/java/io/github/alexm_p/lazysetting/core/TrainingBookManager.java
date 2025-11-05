@@ -5,7 +5,9 @@ import com.google.gson.GsonBuilder;
 import io.github.alexm_p.lazysetting.model.Board;
 import io.github.alexm_p.lazysetting.problem.Problem;
 
+import java.io.File;
 import java.io.FileNotFoundException;
+import java.io.FileReader;
 import java.io.IOException;
 import java.net.URISyntaxException;
 import java.net.URL;
@@ -23,11 +25,16 @@ public class TrainingBookManager {
         String json = gson.toJson(board);
         Files.writeString(Path.of(filename), json);
     }
-
     public static Board loadBoard(String filename) throws IOException {
         Path path = getResourceAsPath(filename);
         String json = Files.readString(path);
         return gson.fromJson(json, Board.class);
+    }
+
+    public static Board loadBoard(File file) throws IOException {
+        try (FileReader reader = new FileReader(file)) {
+            return gson.fromJson(reader, Board.class);
+        }
     }
 
     // TODO: compleat
