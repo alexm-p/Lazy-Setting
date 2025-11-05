@@ -1,0 +1,1 @@
+// Might be good to move the calculateFavourability private methods to this class.
